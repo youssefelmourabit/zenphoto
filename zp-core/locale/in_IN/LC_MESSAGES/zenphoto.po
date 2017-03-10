@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: zenphoto 1.4.14\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-02 16:09-0500\n"
-"PO-Revision-Date: 2017-03-09 17:13+0100\n"
+"PO-Revision-Date: 2017-03-10 12:46+0100\n"
 "Last-Translator: \n"
 "Language-Team: Indian <michel@mgagnon.net>\n"
-"Language: fr\n"
+"Language: Hindi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: themes/basic/404.php:27 themes/zpmobile/404.php:26
 #: zp-core/template-functions.php:445
 msgid "Object not found"
-msgstr "Objet non trouvé"
+msgstr "वस्तु नहीं मिली"
 
 #: themes/basic/album.php:39 themes/basic/album.php:42
 #: themes/basic/favorites.php:38 themes/basic/favorites.php:41
@@ -33,7 +33,7 @@ msgstr "Objet non trouvé"
 #: themes/zpmobile/album.php:33 themes/zpmobile/favorites.php:34
 #: themes/zpmobile/gallery.php:31 themes/zpmobile/search.php:139
 msgid "View album:"
-msgstr "Voir l’album :"
+msgstr "एल्बम देखें :"
 
 #: themes/basic/album.php:64 themes/basic/favorites.php:69
 #: themes/basic/image.php:44 themes/basic/index.php:49
@@ -103,7 +103,7 @@ msgstr "<strong>Tags :</strong> "
 
 #: themes/basic/album.php:81 themes/zenpage/sidebar.php:83
 msgid "Album RSS"
-msgstr "Flux RSS de l’album"
+msgstr "एल्बम आरएसएस"
 
 #: themes/basic/album.php:82 themes/basic/archive.php:30
 #: themes/basic/image.php:127 themes/basic/index.php:60
@@ -149,7 +149,7 @@ msgstr "Contactez-nous."
 #: themes/zpmobile/favorites.php:52
 #: zp-core/zp-extensions/user-expiry/user-expiry-tab.php:199
 msgid "Remove"
-msgstr "Enlever"
+msgstr "हटाना"
 
 #: themes/basic/functions.php:69
 msgid "Default theme color scheme."
@@ -179,7 +179,7 @@ msgstr "बंद करे"
 #: themes/basic/image.php:44 themes/zenpage/image.php:43
 #: themes/zpmobile/image.php:32
 msgid "Previous Image"
-msgstr "Image précédente"
+msgstr "पिछली छवि"
 
 #: themes/basic/image.php:48 themes/zenpage/image.php:45
 #: themes/zpmobile/image.php:35
@@ -209,7 +209,7 @@ msgstr "रजिस्टर"
 #: themes/garland/register.php:45 themes/zenpage/register.php:38
 #: themes/zpmobile/register.php:27
 msgid "User Registration"
-msgstr "Inscription d’un utilisateur"
+msgstr "उपयोगकर्ता का पंजीकरण"
 
 #: themes/basic/search.php:44
 #, php-format
@@ -219,7 +219,7 @@ msgstr "Nombre de résultats pour <em>%1$s</em> : %2$u"
 #: themes/basic/search.php:60 zp-core/admin-edit.php:1313
 #: zp-core/admin-functions.php:1372
 msgid "Date:"
-msgstr "Date : "
+msgstr "तारीख: "
 
 #: themes/basic/search.php:84
 msgid "Sorry, no image matches found. Try refining your search."
@@ -250,7 +250,7 @@ msgstr ""
 #: themes/garland/themeoptions.php:75 themes/zenpage/themeoptions.php:66
 #: themes/zpmobile/themeoptions.php:38
 msgid "Allow search"
-msgstr "Autoriser la recherche"
+msgstr "खोज की अनुमति दें"
 
 #: themes/basic/themeoptions.php:43
 #: themes/effervescence_plus/themeoptions.php:108
@@ -271,7 +271,7 @@ msgstr "Choisir les couleurs du thème"
 #: themes/effervescence_plus/404.php:33 themes/garland/404.php:44
 #: themes/garland/404.php:46
 msgid "Page not found"
-msgstr "Page non trouvée"
+msgstr "पृष्ठ नहीं मिला"
 
 #: themes/effervescence_plus/album.php:52
 #: themes/effervescence_plus/gallery.php:31
@@ -301,11 +301,11 @@ msgstr "खोज"
 #: themes/effervescence_plus/album.php:144
 #: themes/effervescence_plus/favorites.php:184
 msgid "Album is empty"
-msgstr "L’album est vide"
+msgstr "एल्बम खाली है"
 
 #: themes/effervescence_plus/archive.php:52 themes/garland/archive.php:45
 msgid "Images By Date"
-msgstr "Images par date"
+msgstr "तिथि के अनुसार चित्र"
 
 #: themes/effervescence_plus/archive.php:57 themes/garland/archive.php:50
 #: themes/zenpage/archive.php:43 themes/zpmobile/archive.php:33
@@ -4227,11 +4227,11 @@ msgstr ""
 
 #: zp-core/admin-options.php:1877
 msgid "Image quality:"
-msgstr "Qualité de l’image : "
+msgstr "छवि गुणवत्ता : "
 
 #: zp-core/admin-options.php:1880
 msgid "Normal Image"
-msgstr "Images normales"
+msgstr "सामान्य छवि"
 
 #: zp-core/admin-options.php:1901
 msgid "<em>full</em> Image"
@@ -4310,7 +4310,7 @@ msgstr "Force"
 
 #: zp-core/admin-options.php:2017
 msgid "Radius"
-msgstr "Rayon"
+msgstr "त्रिज्या"
 
 #: zp-core/admin-options.php:2021
 msgid "Threshold"
@@ -4536,11 +4536,11 @@ msgstr "Mettre en cache les images pleine grandeur"
 
 #: zp-core/admin-options.php:2225 zp-core/admin-options.php:2261
 msgid "password:"
-msgstr "mot de passe :"
+msgstr "पासवर्ड:"
 
 #: zp-core/admin-options.php:2247
 msgid "user:"
-msgstr "utilisateur :"
+msgstr "उपयोगकर्ता:"
 
 #: zp-core/admin-options.php:2294
 msgid "hint:"
