@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: zenphoto 1.4.14\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-02 16:09-0500\n"
-"PO-Revision-Date: 2017-03-10 12:46+0100\n"
+"PO-Revision-Date: 2017-03-10 13:58+0100\n"
 "Last-Translator: \n"
-"Language-Team: Indian <michel@mgagnon.net>\n"
-"Language: Hindi\n"
+"Language-Team: Zorodimanche <michel@mgagnon.net>\n"
+"Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../../..\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Bookmarks: 1740,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Generator: Poedit 1.8.12\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -61,7 +61,7 @@ msgstr "एल्बम देखें :"
 #: zp-core/zp-extensions/slideshow2.php:269
 #: zp-core/zp-extensions/slideshow2.php:595
 msgid "prev"
-msgstr "préc."
+msgstr "पिछला"
 
 #: themes/basic/album.php:64 themes/basic/favorites.php:69
 #: themes/basic/image.php:48 themes/basic/index.php:49
@@ -135,11 +135,11 @@ msgstr "प्रसिद्ध टग्स"
 #: themes/garland/functions.php:128 themes/zenpage/contact.php:37
 #: themes/zenpage/sidebar.php:110 themes/zenpage/sidebar.php:112
 msgid "Contact us"
-msgstr "Contactez-nous"
+msgstr "हमसे संपर्क करें"
 
 #: themes/basic/contact.php:31 themes/effervescence_plus/contact.php:52
 msgid "Contact us."
-msgstr "Contactez-nous."
+msgstr "हमसे संपर्क करें."
 
 #: themes/basic/favorites.php:44 themes/basic/favorites.php:59
 #: themes/effervescence_plus/favorites.php:111
@@ -157,7 +157,7 @@ msgstr "Palette de couleurs par défaut du thème."
 
 #: themes/basic/functions.php:70 themes/effervescence_plus/functions.php:134
 msgid "Theme Color"
-msgstr "Couleur du thème"
+msgstr "थीम रंग"
 
 #: themes/basic/image.php:22 themes/basic/image.php:28
 #: themes/effervescence_plus/colorbox/functions.php:32
@@ -310,7 +310,7 @@ msgstr "तिथि के अनुसार चित्र"
 #: themes/effervescence_plus/archive.php:57 themes/garland/archive.php:50
 #: themes/zenpage/archive.php:43 themes/zpmobile/archive.php:33
 msgid "News archive"
-msgstr "Archives des actualités"
+msgstr "समाचार संग्रह"
 
 #: themes/effervescence_plus/contact.php:42 zp-core/functions.php:2589
 #: zp-core/template-functions.php:449
@@ -320,7 +320,7 @@ msgstr "संपर्क करें"
 
 #: themes/effervescence_plus/favorites.php:50
 msgid "Search gallery"
-msgstr "Rechercher dans la galerie"
+msgstr "खोज गैलरी"
 
 #: themes/effervescence_plus/functions.php:133
 msgid "Effervescence color scheme."
@@ -343,7 +343,7 @@ msgstr ""
 
 #: themes/effervescence_plus/functions.php:198
 msgid "Random picture..."
-msgstr "Image aléatoire..."
+msgstr "आकस्मिक तस्वीर..."
 
 #: themes/effervescence_plus/functions.php:229
 #: zp-core/zp-extensions/menu_manager.php:1095
@@ -523,7 +523,7 @@ msgstr "‹‹ préc."
 
 #: themes/effervescence_plus/functions.php:482
 msgid "Add a comment"
-msgstr "Ajouter un commentaire"
+msgstr "एक टिप्पणी जोड़ने"
 
 #: themes/effervescence_plus/image_gallery/functions.php:46
 #: themes/garland/image_gallery/functions.php:46
@@ -534,7 +534,7 @@ msgstr "प्रारंभ"
 #: themes/effervescence_plus/image_gallery/functions.php:47
 #: themes/garland/image_gallery/functions.php:47
 msgid "Stop"
-msgstr "Arrêter"
+msgstr "रुकें"
 
 #: themes/effervescence_plus/indexpage.php:43
 #: themes/effervescence_plus/slideshow.php:34 themes/zpmobile/functions.php:65
@@ -8937,7 +8937,7 @@ msgstr "Aucun droit"
 #: zp-core/lib-auth.php:505 zp-core/lib-auth.php:520 zp-core/lib-auth.php:539
 #: zp-core/lib-auth.php:564 zp-core/template-functions.php:97
 msgid "Overview"
-msgstr "Aperçu"
+msgstr "अवलोकन"
 
 #: zp-core/lib-auth.php:506 zp-core/lib-auth.php:521
 msgid "View all"
@@ -8953,13 +8953,13 @@ msgstr "Charger"
 #: zp-core/lib-auth.php:508 zp-core/lib-auth.php:523 zp-core/lib-auth.php:547
 #: zp-core/lib-auth.php:573
 msgid "Post comments"
-msgstr "Poster des commentaires"
+msgstr "टिप्पणियां भेजें"
 
 #: zp-core/lib-auth.php:509 zp-core/lib-auth.php:524 zp-core/lib-auth.php:548
 #: zp-core/lib-auth.php:574 zp-core/zp-extensions/comment_form.php:173
 #: zp-core/zp-extensions/comment_form/admin-comments.php:261
 msgid "Comments"
-msgstr "Commentaires"
+msgstr "टिप्पणियाँ"
 
 #: zp-core/lib-auth.php:511 zp-core/lib-auth.php:531
 msgid "Manage all albums"
@@ -8968,7 +8968,7 @@ msgstr "Gérer tous les albums"
 #: zp-core/lib-auth.php:512 zp-core/lib-auth.php:532 zp-core/lib-auth.php:557
 #: zp-core/lib-auth.php:584 zp-core/template-functions.php:141
 msgid "Themes"
-msgstr "Thèmes"
+msgstr "विषयों"
 
 #: zp-core/lib-auth.php:513
 msgid "Zenpage"
@@ -9112,7 +9112,7 @@ msgstr ""
 
 #: zp-core/lib-auth.php:540 zp-core/lib-auth.php:566
 msgid "View gallery"
-msgstr "Voir la galerie"
+msgstr "देखें गैलरी"
 
 #: zp-core/lib-auth.php:540 zp-core/lib-auth.php:566
 msgid ""
@@ -9182,7 +9182,7 @@ msgstr "Tout gérer"
 #: zp-core/lib-auth.php:565 zp-core/lib-auth.php:906 zp-core/lib-auth.php:1010
 #: zp-core/lib-auth.php:1051
 msgid "User"
-msgstr "Utilisateur"
+msgstr "उपयोगकर्ता"
 
 #: zp-core/lib-auth.php:565
 msgid "Users must have this right to change their credentials."
@@ -9192,7 +9192,7 @@ msgstr ""
 
 #: zp-core/lib-auth.php:583
 msgid "Codeblock"
-msgstr "Bloc de code"
+msgstr "कोड ब्लॉक"
 
 #: zp-core/lib-auth.php:583
 msgid "Users with this right may edit Codeblocks."
@@ -9200,7 +9200,7 @@ msgstr "Ce niveau d’autorisation permet de modifier les blocs de code."
 
 #: zp-core/lib-auth.php:594
 msgid "All rights"
-msgstr "Tous les droits"
+msgstr "ठीक है"
 
 #: zp-core/lib-auth.php:595 zp-core/zp-extensions/register_user.php:143
 msgid "Default rights"
@@ -9288,11 +9288,11 @@ msgstr ""
 
 #: zp-core/lib-auth.php:916
 msgid "Challenge question:"
-msgstr "Question défi : "
+msgstr "चुनोती वाला सवाल:"
 
 #: zp-core/lib-auth.php:921
 msgid "Your response"
-msgstr "Votre réponse"
+msgstr "तुम्हारा जवाब"
 
 #: zp-core/lib-auth.php:927
 msgid "A password reset is not possible."
@@ -9316,47 +9316,46 @@ msgstr ""
 #: zp-core/lib-auth.php:944
 #: zp-core/zp-extensions/register_user/register_user_form.php:108
 msgid "Submit"
-msgstr "Soumettre"
+msgstr "जमा करें"
 
 #: zp-core/lib-auth.php:946 zp-core/lib-auth.php:1067
 msgid "Return"
-msgstr "Retour"
+msgstr "वापसी"
 
 #: zp-core/lib-auth.php:956
 msgid "Request reset by e-mail"
-msgstr "Demande de réinitialisation par email"
+msgstr "ईमेल द्वारा रीसेट अनुरोध"
 
 #: zp-core/lib-auth.php:968 zp-core/zp-extensions/user_login-out.php:115
 msgid "Login"
-msgstr "Connexion"
+msgstr "लॉग इन करें"
 
 #: zp-core/lib-auth.php:989
 #, php-format
 msgid "Logon using:%s"
-msgstr "Se connecter en utilisant :%s"
+msgstr "लॉगऑन का उपयोग:% s"
 
 #: zp-core/lib-auth.php:1016 zp-core/lib-auth.php:1127
 #: zp-core/lib-auth.php:1213
 msgid "Password"
-msgstr "Mot de passe"
+msgstr "पासवर्ड"
 
 #: zp-core/lib-auth.php:1022
 msgid "Log in"
-msgstr "Se connecter"
+msgstr "लॉग इन करें"
 
 #: zp-core/lib-auth.php:1036
 msgid "I forgot my <strong>User ID</strong>/<strong>Password</strong>"
 msgstr ""
-"J’ai oublié mon <strong>identifiant</strong> ou mon <strong>mot de passe</"
-"strong>"
+"मैं अपना <strong> प्रयोक्ता आईडी </ strong> / <strong> पासवर्ड </ strong> भूल गया"
 
 #: zp-core/lib-auth.php:1058
 msgid "Enter CAPTCHA"
-msgstr "Saisir le Captcha"
+msgstr "कैप्चा दर्ज करें"
 
 #: zp-core/lib-auth.php:1066
 msgid "Request"
-msgstr "Demande"
+msgstr "निवेदन"
 
 #: zp-core/lib-auth.php:1066
 msgid "Request password reset"
