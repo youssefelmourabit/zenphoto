@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-11 15:45+0100\n"
+"PO-Revision-Date: 2017-03-11 17:18+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -858,7 +858,7 @@ msgstr "Règle pour la galerie"
 #: themes/effervescence_plus/themeoptions.php:75
 #: themes/garland/themeoptions.php:53 themes/zenpage/themeoptions.php:54
 msgid "All pages"
-msgstr "Toutes les pages"
+msgstr "كل الصفحات"
 
 #: themes/effervescence_plus/themeoptions.php:76
 #: themes/garland/themeoptions.php:54
@@ -1062,7 +1062,7 @@ msgstr "Image de la page d’accueil"
 #: zp-core/zp-extensions/slideshow2.php:102
 #: zp-core/zp-extensions/slideshow2.php:140
 msgid "none"
-msgstr "aucune"
+msgstr "لا شيء"
 
 #: themes/effervescence_plus/themeoptions.php:144
 msgid "Apply this effect to the index page image."
@@ -1111,11 +1111,13 @@ msgstr "Navigation dans l’album"
 
 #: themes/garland/album.php:105 themes/garland/favorites.php:117
 msgid "Next album"
-msgstr "Album suivant"
+msgstr "الألبوم القادم"
 
 #: themes/garland/album.php:105 themes/garland/favorites.php:117
 msgid "Next album »"
-msgstr "Album suivant ››"
+msgstr ""
+"الألبوم القادم\n"
+" ››"
 
 #: themes/garland/album.php:113 themes/garland/favorites.php:125
 msgid "Prev Album"
@@ -1141,11 +1143,11 @@ msgstr "Mode d’affichage des images du thème Garland."
 
 #: themes/garland/gallery.php:81 themes/garland/main.php:56
 msgid "Latest Images"
-msgstr "Images récentes"
+msgstr "أحدث الصور"
 
 #: themes/garland/image.php:118
 msgid "Next image"
-msgstr "Image suivante"
+msgstr "الصورة التالية"
 
 #: themes/garland/image.php:119
 msgid "Next »"
@@ -1338,7 +1340,7 @@ msgstr "L’objet Zenphoto demandé n’a pu être trouvé."
 #: themes/zpmobile/archive.php:26 zp-core/template-functions.php:449
 #: zp-core/zp-extensions/html_meta_tags.php:251
 msgid "Archive view"
-msgstr "Archives"
+msgstr "عرض الأرشيف"
 
 #: themes/zpmobile/functions.php:44 zp-core/admin-functions.php:465
 #: zp-core/admin-functions.php:4688 zp-core/lib-auth.php:510
@@ -1348,7 +1350,7 @@ msgstr "Archives"
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:246
 #: zp-core/zp-extensions/related_items.php:174
 msgid "Album"
-msgstr "Album"
+msgstr "ألبوم"
 
 #: themes/zpmobile/functions.php:96
 msgid "Powered by"
@@ -1405,7 +1407,7 @@ msgstr "Visualiser les métadonnées"
 
 #: themes/zpmobile/index.php:31 zp-core/class-feed.php:256
 msgid "Latest images"
-msgstr "Images récentes"
+msgstr "أحدث الصور"
 
 #: themes/zpmobile/index.php:66
 msgid "Latest news"
