@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-10 17:31+0100\n"
+"PO-Revision-Date: 2017-03-11 14:29+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: themes/basic/404.php:27 themes/zpmobile/404.php:26
 #: zp-core/template-functions.php:445
 msgid "Object not found"
-msgstr "Objet non trouvé"
+msgstr "المفعول به غير موجود"
 
 #: themes/basic/album.php:39 themes/basic/album.php:42
 #: themes/basic/favorites.php:38 themes/basic/favorites.php:41
@@ -31,7 +31,7 @@ msgstr "Objet non trouvé"
 #: themes/zpmobile/album.php:33 themes/zpmobile/favorites.php:34
 #: themes/zpmobile/gallery.php:31 themes/zpmobile/search.php:139
 msgid "View album:"
-msgstr "Voir l’album :"
+msgstr "عرض الألبومn"
 
 #: themes/basic/album.php:64 themes/basic/favorites.php:69
 #: themes/basic/image.php:44 themes/basic/index.php:49
@@ -97,11 +97,11 @@ msgstr "التالى"
 #: themes/zenpage/pages.php:50 themes/zpmobile/news.php:44
 #: themes/zpmobile/pages.php:57
 msgid "<strong>Tags:</strong>"
-msgstr "<strong>Tags :</strong> "
+msgstr "‫<strong>الكلمات الدلالية:</strong>"
 
 #: themes/basic/album.php:81 themes/zenpage/sidebar.php:83
 msgid "Album RSS"
-msgstr "Flux RSS de l’album"
+msgstr "ألبوم"
 
 #: themes/basic/album.php:82 themes/basic/archive.php:30
 #: themes/basic/image.php:127 themes/basic/index.php:60
@@ -109,7 +109,7 @@ msgstr "Flux RSS de l’album"
 #: themes/garland/archive.php:41 themes/garland/functions.php:122
 #: themes/zenpage/archive.php:33
 msgid "Archive View"
-msgstr "Archives"
+msgstr "عرض الأرشيف"
 
 #: themes/basic/archive.php:15 themes/basic/image.php:34
 #: themes/basic/index.php:15 themes/basic/search.php:14
@@ -121,12 +121,12 @@ msgstr "Archives"
 #: themes/zenpage/archive.php:14 themes/zenpage/gallery.php:14
 #: themes/zenpage/search.php:14
 msgid "Gallery RSS"
-msgstr "Flux RSS de la galerie"
+msgstr "الألبوم"
 
 #: themes/basic/archive.php:36 themes/effervescence_plus/archive.php:62
 #: themes/zenpage/archive.php:48 themes/zpmobile/archive.php:38
 msgid "Popular Tags"
-msgstr "Tags populaires"
+msgstr "الكلمات الشعبية"
 
 #: themes/basic/contact.php:28 themes/basic/index.php:63
 #: themes/effervescence_plus/functions.php:407 themes/garland/contact.php:43
@@ -155,7 +155,7 @@ msgstr "Palette de couleurs par défaut du thème."
 
 #: themes/basic/functions.php:70 themes/effervescence_plus/functions.php:134
 msgid "Theme Color"
-msgstr "Couleur du thème"
+msgstr "اللون موضوع"
 
 #: themes/basic/image.php:22 themes/basic/image.php:28
 #: themes/effervescence_plus/colorbox/functions.php:32
@@ -217,7 +217,7 @@ msgstr "Nombre de résultats pour <em>%1$s</em> : %2$u"
 #: themes/basic/search.php:60 zp-core/admin-edit.php:1313
 #: zp-core/admin-functions.php:1372
 msgid "Date:"
-msgstr "Date : "
+msgstr "التاريخ:"
 
 #: themes/basic/search.php:84
 msgid "Sorry, no image matches found. Try refining your search."
@@ -294,7 +294,7 @@ msgstr "Page non trouvée"
 #: zp-core/zp-extensions/slideshow.php:749
 #: zp-core/zp-extensions/slideshow2.php:733
 msgid "Search"
-msgstr "Recherche"
+msgstr "بحث"
 
 #: themes/effervescence_plus/album.php:144
 #: themes/effervescence_plus/favorites.php:184
@@ -1151,11 +1151,11 @@ msgstr "Image suivante"
 
 #: themes/garland/image.php:119
 msgid "Next »"
-msgstr "Suivante ››"
+msgstr "التالى. ››"
 
 #: themes/garland/image.php:128
 msgid "Previous image"
-msgstr "Image précédente"
+msgstr "الصورة السابقة"
 
 #: themes/garland/image.php:129
 msgid "« Previous"
