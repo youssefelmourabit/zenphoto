@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-11 14:29+0100\n"
+"PO-Revision-Date: 2017-03-11 15:45+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -151,7 +151,7 @@ msgstr "إزالة"
 
 #: themes/basic/functions.php:69
 msgid "Default theme color scheme."
-msgstr "Palette de couleurs par défaut du thème."
+msgstr "افتراضي مخطط موضوع اللون."
 
 #: themes/basic/functions.php:70 themes/effervescence_plus/functions.php:134
 msgid "Theme Color"
@@ -207,12 +207,12 @@ msgstr "تسجيل"
 #: themes/garland/register.php:45 themes/zenpage/register.php:38
 #: themes/zpmobile/register.php:27
 msgid "User Registration"
-msgstr "Inscription d’un utilisateur"
+msgstr "تسجيل مستخدم جديد"
 
 #: themes/basic/search.php:44
 #, php-format
 msgid "Total matches for <em>%1$s</em>: %2$u"
-msgstr "Nombre de résultats pour <em>%1$s</em> : %2$u"
+msgstr "مجموع المباريات <em>ل٪ 1 $ الصورة:٪</em> 2 $ ش"
 
 #: themes/basic/search.php:60 zp-core/admin-edit.php:1313
 #: zp-core/admin-functions.php:1372
@@ -221,16 +221,15 @@ msgstr "التاريخ:"
 
 #: themes/basic/search.php:84
 msgid "Sorry, no image matches found. Try refining your search."
-msgstr ""
-"Désolé, aucune image ne correspond. Essayez de préciser votre recherche."
+msgstr "آسف، لا توجد مباريات الصورة. حاول تنقية البحث الخاص بك."
 
 #: themes/basic/theme_description.php:5
 msgid ""
 "<a href=\"http://www.noscope.com\" target=\"_blank\">Joen Asmussen</a> and "
 "<a href=\"http://www.levibuzolic.com\" target=\"_blank\">Levi Buzolic</a>"
 msgstr ""
-"<a href=\"http://www.noscope.com\" target=\"_blank\">Joen Asmussen</a> et <a "
-"href=\"http://www.levibuzolic.com\" target=\"_blank\">Levi Buzolic</a>"
+"<a href=\"http://www.noscope.com\" target=\"_blank\">Joen أسموسن</a> و <a "
+"href=\"http://www.levibuzolic.com\" target=\"_blank\">ليفي Buzolic</a>"
 
 #: themes/basic/theme_description.php:8
 msgid ""
@@ -269,7 +268,7 @@ msgstr "Choisir les couleurs du thème"
 #: themes/effervescence_plus/404.php:33 themes/garland/404.php:44
 #: themes/garland/404.php:46
 msgid "Page not found"
-msgstr "Page non trouvée"
+msgstr "لم يتم العثور على الصفحة"
 
 #: themes/effervescence_plus/album.php:52
 #: themes/effervescence_plus/gallery.php:31
@@ -299,7 +298,7 @@ msgstr "بحث"
 #: themes/effervescence_plus/album.php:144
 #: themes/effervescence_plus/favorites.php:184
 msgid "Album is empty"
-msgstr "L’album est vide"
+msgstr "الالبوم فارغ"
 
 #: themes/effervescence_plus/archive.php:52 themes/garland/archive.php:45
 msgid "Images By Date"
@@ -947,53 +946,52 @@ msgid ""
 "Select a logo (PNG files in the <em>%s/images</em> folder) or leave empty "
 "for text logo."
 msgstr ""
-"Sélectionner un logo (un des fichiers PNG du dossier <em>%s/images</em>) ou "
-"laisser vide pour afficher un logo textuel."
+"اختيار شعار (ملفات PNG <em>في٪ ق /</em> مجلد <em>الصور)</em> أو ترك فارغا "
+"لشعار النص."
 
 #: themes/effervescence_plus/themeoptions.php:111
 #: themes/garland/themeoptions.php:72
 msgid "Theme personality"
-msgstr "Présentation du thème"
+msgstr "شخصية موضوع"
 
 #: themes/effervescence_plus/themeoptions.php:114
 #: themes/garland/themeoptions.php:74
 msgid "Select the theme personality"
-msgstr "Choisir la présentation du thème"
+msgstr "تحديد شخصية موضوع"
 
 #: themes/effervescence_plus/themeoptions.php:116
 #: themes/effervescence_plus/themeoptions.php:120
 #: themes/garland/themeoptions.php:77
 msgid "Custom menu"
-msgstr "Menu personnalisé"
+msgstr "قائمة مخصصة"
 
 #: themes/effervescence_plus/themeoptions.php:116
 #: themes/garland/themeoptions.php:77
 msgid "Set this to the <em>menu_manager</em> menu you wish to use."
-msgstr ""
-"Choisir le jeu de menus du <em>menu_manager</em> que vous voulez utiliser."
+msgstr "تعيين هذا إلى القائمة <em>menu_manager</em> التي ترغب في استخدامها."
 
 #: themes/effervescence_plus/themeoptions.php:124
 #: themes/garland/themeoptions.php:92
 msgid "Image gallery transition"
-msgstr "Transition entre les images de la galerie"
+msgstr "صورة معرض الانتقالية"
 
 #: themes/effervescence_plus/themeoptions.php:125
 #: themes/garland/themeoptions.php:93 zp-core/exif/makers/canon.php:151
 #: zp-core/exif/makers/nikon.php:221 zp-core/zp-extensions/GoogleMap.php:91
 #: zp-core/zp-extensions/user_login-out.php:36
 msgid "None"
-msgstr "Aucun"
+msgstr "لا شيء"
 
 #: themes/effervescence_plus/themeoptions.php:125
 #: themes/garland/themeoptions.php:93
 #: zp-core/zp-extensions/bxslider_thumb_nav.php:75
 msgid "Fade"
-msgstr "Fondu"
+msgstr "تلاشى"
 
 #: themes/effervescence_plus/themeoptions.php:125
 #: themes/garland/themeoptions.php:93
 msgid "Shrink/grow"
-msgstr "Ajuster (réduire ou agrandir)"
+msgstr "يتقلص / زراعة"
 
 #: themes/effervescence_plus/themeoptions.php:125
 #: themes/garland/themeoptions.php:93 zp-core/zp-extensions/GoogleMap.php:94
@@ -2595,17 +2593,17 @@ msgstr "Albums dynamiques"
 
 #: zp-core/admin-functions.php:2030
 msgid "Images (dynamic)"
-msgstr "Images dynamiques"
+msgstr "الصور (دينامية)"
 
 #: zp-core/admin-functions.php:2036
 #: zp-core/zp-extensions/zenpage/admin-categories.php:187
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1410
 msgid "Has Password"
-msgstr "A un mot de passe"
+msgstr "كلمة المرور"
 
 #: zp-core/admin-functions.php:2040
 msgid "Published/Un-published"
-msgstr "Publié / non publié"
+msgstr "نشرت / الامم المتحدة ونشرت"
 
 #: zp-core/admin-functions.php:2041
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1414
@@ -2614,15 +2612,15 @@ msgstr "Commentaires actifs / désactivés"
 
 #: zp-core/admin-functions.php:2042
 msgid "View the album"
-msgstr "Voir l’album"
+msgstr "عرض الألبوم"
 
 #: zp-core/admin-functions.php:2043
 msgid "Refresh metadata"
-msgstr "Actualiser les métadonnées"
+msgstr "التعريف التحديث"
 
 #: zp-core/admin-functions.php:2047
 msgid "Reset hit counters"
-msgstr "Remettre les compteurs à zéro"
+msgstr "إعادة تعيين ضرب عدادات"
 
 #: zp-core/admin-functions.php:2083 zp-core/admin-functions.php:2100
 #, php-format
@@ -2642,7 +2640,7 @@ msgstr "صور"
 #: zp-core/admin-globals.php:65 zp-core/zp-extensions/tinyURL.php:76
 #: zp-core/zp-extensions/tweet_news.php:422
 msgid "albums"
-msgstr "albums"
+msgstr "ألبومات"
 
 #: zp-core/admin-functions.php:2122 zp-core/admin-functions.php:2127
 msgid "Subalbum List"
@@ -9741,7 +9739,7 @@ msgstr "Vous devez accepter cette licence pour continuer d’utiliser Zenphoto."
 
 #: zp-core/license.php:48
 msgid "I agree to these terms and conditions"
-msgstr "J’accepte les conditions d’utilisation"
+msgstr "أوافق على شروط الاستخدام"
 
 #: zp-core/no_uploader.php:13
 msgid "There are no upload handlers enabled that can service your request."
@@ -9951,7 +9949,7 @@ msgstr "Erreur de requête : %s"
 
 #: zp-core/setup/index.php:422
 msgid "create"
-msgstr "créer"
+msgstr "خلق"
 
 #: zp-core/setup/index.php:422
 msgid "update"
@@ -9972,11 +9970,11 @@ msgstr "Réinstallation de la version courante de Zenphoto"
 
 #: zp-core/setup/index.php:456 zp-core/setup/index.php:484
 msgid "reinstall"
-msgstr "réinstallation"
+msgstr "إعادة التوطين"
 
 #: zp-core/setup/index.php:495
 msgid "install"
-msgstr "installation"
+msgstr "تركيب"
 
 #: zp-core/setup/index.php:518
 msgid "Zenphoto Setup"
@@ -10726,11 +10724,11 @@ msgstr "Select"
 
 #: zp-core/setup/index.php:1072
 msgid "Create"
-msgstr "Create"
+msgstr "خلق"
 
 #: zp-core/setup/index.php:1072
 msgid "Drop"
-msgstr "Drop"
+msgstr "قطرة"
 
 #: zp-core/setup/index.php:1072
 msgid "Insert"
@@ -11213,7 +11211,7 @@ msgstr "chargé(s)"
 
 #: zp-core/setup/index.php:1590
 msgid "HTML cache"
-msgstr "Cache HTML"
+msgstr "مخبأ HTML"
 
 #: zp-core/setup/index.php:1591
 msgid "Third party plugins"
@@ -11755,7 +11753,7 @@ msgstr ""
 
 #: zp-core/template-functions.php:127
 msgid "Users"
-msgstr "Utilisateurs"
+msgstr "المستخدمين"
 
 #: zp-core/template-functions.php:151
 msgid "Logs"
@@ -11771,7 +11769,7 @@ msgstr "Nouvel album"
 
 #: zp-core/template-functions.php:203
 msgid "Edit album"
-msgstr "Modifier l’album"
+msgstr "تعديل الألبوم"
 
 #: zp-core/template-functions.php:210
 msgid "Sort subalbums"
@@ -11783,11 +11781,11 @@ msgstr "Trier les images"
 
 #: zp-core/template-functions.php:227
 msgid "Delete the album"
-msgstr "Supprimer l’album"
+msgstr "حذف الألبوم"
 
 #: zp-core/template-functions.php:236
 msgid "Upload Here"
-msgstr "Charger ici"
+msgstr "تحميل هنا"
 
 #: zp-core/template-functions.php:242
 msgid "New Album Here"
@@ -11807,12 +11805,12 @@ msgstr "Créer un album à partir de cette recherche"
 
 #: zp-core/template-functions.php:290
 msgid "Create Album"
-msgstr "Créer un album"
+msgstr "إنشاء الألبوم"
 
 #: zp-core/template-functions.php:315
 #: zp-core/zp-extensions/user_login-out.php:117
 msgid "Logout"
-msgstr "Se déconnecter"
+msgstr "تسجيل الخروج"
 
 #: zp-core/template-functions.php:451
 #: zp-core/zp-extensions/favoritesHandler.php:60
@@ -11978,11 +11976,11 @@ msgstr "Sauvegarder ou restaurer"
 
 #: zp-core/utilities/backup_restore.php:28
 msgid "Backup and restore your gallery database."
-msgstr "Sauvegarder et restaurer la base de données de votre galerie."
+msgstr "النسخ الاحتياطي واستعادة قاعدة البيانات من معرض الصور الخاص بك."
 
 #: zp-core/utilities/backup_restore.php:137
 msgid "Backup"
-msgstr "Sauvegarde"
+msgstr "حماية"
 
 #: zp-core/utilities/backup_restore.php:177
 #, php-format
@@ -16511,7 +16509,7 @@ msgstr ""
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:125
 #: zp-core/zp-extensions/zenpage/admin-edit.php:211
 msgid "Category"
-msgstr "Catégorie"
+msgstr "فئة"
 
 #: zp-core/zp-extensions/galleryArticles.php:88
 msgid "Select a category for the generated articles"
@@ -18902,7 +18900,7 @@ msgstr ""
 
 #: zp-core/zp-extensions/rating.php:128
 msgid "retract"
-msgstr "annuler"
+msgstr "يُبْعد"
 
 #: zp-core/zp-extensions/rating.php:145
 msgid "Vote Status:"
@@ -18910,11 +18908,11 @@ msgstr "Statut du vote :"
 
 #: zp-core/zp-extensions/rating.php:175
 msgid "Reset all ratings"
-msgstr "Effacer les votes"
+msgstr "إعادة تعيين جميع التقييمات"
 
 #: zp-core/zp-extensions/rating.php:179
 msgid "Sets all ratings to unrated."
-msgstr "Remet à zéro tous les compteurs de votes."
+msgstr "يحدد جميع الدرجات لغير المقيم."
 
 #: zp-core/zp-extensions/rating.php:319
 #, php-format
@@ -24101,7 +24099,7 @@ msgstr "Police du Captcha"
 
 #: zp-core/zp-extensions/zpCaptcha.php:58
 msgid "random"
-msgstr "aléatoire"
+msgstr "عشوائي"
 
 #: zp-core/zp-extensions/zpCaptcha.php:59
 msgid "The font to use for CAPTCHA characters."
