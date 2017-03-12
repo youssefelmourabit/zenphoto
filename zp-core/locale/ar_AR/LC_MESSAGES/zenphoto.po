@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-12 10:24+0100\n"
+"PO-Revision-Date: 2017-03-12 16:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -22824,24 +22824,24 @@ msgstr "Active l’extension de gestion de contenus Zenpage"
 
 #: zp-core/zp-extensions/zenpage.php:299
 msgid "Edit Page"
-msgstr "Modifier la page"
+msgstr "تحرير صفحة"
 
 #: zp-core/zp-extensions/zenpage.php:304
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:297
 msgid "Delete page"
-msgstr "Supprimer la page"
+msgstr "حذف صفحة"
 
 #: zp-core/zp-extensions/zenpage.php:304
 msgid "Delete Page"
-msgstr "Supprimer la page"
+msgstr "احذف الصفحة"
 
 #: zp-core/zp-extensions/zenpage.php:308
 msgid "Add Page"
-msgstr "Ajouter une page"
+msgstr "أضف صفحة"
 
 #: zp-core/zp-extensions/zenpage.php:321
 msgid "Edit Article"
-msgstr "Modifier l’article"
+msgstr "تعديل المقال"
 
 #: zp-core/zp-extensions/zenpage.php:327
 #: zp-core/zp-extensions/zenpage/admin-news-articles.php:374
@@ -22855,7 +22855,7 @@ msgstr "Supprimer l’article"
 
 #: zp-core/zp-extensions/zenpage.php:331
 msgid "Add Article"
-msgstr "Ajouter un article"
+msgstr "أضف المقال"
 
 #: zp-core/zp-extensions/zenpage/admin-categories.php:25
 #: zp-core/zp-extensions/zenpage/admin-pages.php:28
