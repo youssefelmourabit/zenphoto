@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-11 17:18+0100\n"
+"PO-Revision-Date: 2017-03-12 10:24+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -12059,7 +12059,7 @@ msgstr "La migration des droits Zenphoto a échoué !"
 
 #: zp-core/utilities/backup_restore.php:483
 msgid "Restore completed"
-msgstr "Restauration terminée"
+msgstr "استعادة الانتهاء"
 
 #: zp-core/utilities/backup_restore.php:485
 #, php-format
@@ -13100,12 +13100,12 @@ msgstr "Masquer"
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:31
 #: zp-core/zp-extensions/zenpage/admin-edit.php:124
 msgid "add"
-msgstr "ajouter"
+msgstr "أضف"
 
 #: zp-core/zp-extensions/cacheManager.php:257
 #: zp-core/zp-extensions/galleryArticles.php:79
 msgid "Size"
-msgstr "Taille"
+msgstr "حجم"
 
 #: zp-core/zp-extensions/cacheManager.php:258
 msgid "Crop X axis"
@@ -13125,7 +13125,7 @@ msgstr "MaxSpace"
 
 #: zp-core/zp-extensions/cacheManager.php:279
 msgid "Grayscale"
-msgstr "Tons de gris"
+msgstr "تدرج الرمادي"
 
 #: zp-core/zp-extensions/cacheManager.php:345
 #: zp-core/zp-extensions/cacheManager.php:425
@@ -14185,7 +14185,7 @@ msgstr "<strong>Objet absent !</strong>"
 #: zp-core/zp-extensions/comment_form/admin-comments.php:389
 #: zp-core/zp-extensions/comment_form/functions.php:87
 msgid "[news]"
-msgstr "[actualités]"
+msgstr "أخبار"
 
 #: zp-core/zp-extensions/comment_form/admin-comments.php:397
 #: zp-core/zp-extensions/comment_form/functions.php:95
