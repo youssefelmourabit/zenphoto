@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-12 16:00+0100\n"
+"PO-Revision-Date: 2017-03-13 21:01+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -313,7 +313,7 @@ msgstr "Archives des actualités"
 #: zp-core/template-functions.php:449
 #: zp-core/zp-extensions/html_meta_tags.php:251
 msgid "Contact"
-msgstr "Contact"
+msgstr "اتصل"
 
 #: themes/effervescence_plus/favorites.php:50
 msgid "Search gallery"
@@ -329,7 +329,7 @@ msgstr "Mode d’affichage des images du thème Effervescence."
 
 #: themes/effervescence_plus/functions.php:146 themes/garland/functions.php:69
 msgid "Personality"
-msgstr "Présentation"
+msgstr "شخصية"
 
 #: themes/effervescence_plus/functions.php:179
 #: themes/effervescence_plus/indexpage.php:81
@@ -20919,11 +20919,11 @@ msgstr ""
 
 #: zp-core/zp-extensions/slideshow2.php:271
 msgid "pause"
-msgstr "pause"
+msgstr "استئناف"
 
 #: zp-core/zp-extensions/static_html_cache.php:28
 msgid "Adds static HTML cache functionality to Zenphoto."
-msgstr "Ajoute une fonctionnalité de cache HTML statique à Zenphoto."
+msgstr "إضافة وظائف ذاكرة التخزين المؤقت HTML ثابتة إلى Zenphoto."
 
 #: zp-core/zp-extensions/static_html_cache.php:36
 #: zp-core/zp-extensions/static_html_cache.php:44
@@ -21181,11 +21181,11 @@ msgstr "Il est impossible d’inclure un(e) %s à pleine grandeur."
 
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage-functions.php:104
 msgid "Album:"
-msgstr "Album :"
+msgstr "ألبوم"
 
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage-functions.php:104
 msgid "Album folder:"
-msgstr "Dossier de l’album :"
+msgstr "مجلد الألبوم:"
 
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage-functions.php:104
 msgid "(Click on image to include)"
@@ -21617,7 +21617,7 @@ msgstr "Le <em>code secret</em> associé à votre clé de consommateur."
 
 #: zp-core/zp-extensions/tweet_news.php:79
 msgid "Access token"
-msgstr "Jeton d’accès"
+msgstr "رمز الوصول"
 
 #: zp-core/zp-extensions/tweet_news.php:81
 msgid "The application <em>oauth_token</em> token."

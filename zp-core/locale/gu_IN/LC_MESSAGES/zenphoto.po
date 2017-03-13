@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:16+0100\n"
-"PO-Revision-Date: 2017-03-12 16:05+0100\n"
+"PO-Revision-Date: 2017-03-13 21:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -3010,7 +3010,7 @@ msgstr "Nom de fichier"
 #: zp-core/zp-extensions/favoritesHandler.php:135
 #: zp-core/zp-extensions/zenpage/admin-edit.php:580
 msgid "Date"
-msgstr "Date"
+msgstr "तारीख"
 
 #: zp-core/admin-globals.php:27 zp-core/class-search.php:97
 #: zp-core/zp-extensions/contact_form.php:105
@@ -3020,7 +3020,7 @@ msgstr "Date"
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:58
 #: zp-core/zp-extensions/rss.php:128
 msgid "Title"
-msgstr "Titre"
+msgstr "शीर्षक"
 
 #: zp-core/admin-globals.php:28 zp-core/zp-extensions/favoritesHandler.php:137
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:353
@@ -3033,29 +3033,29 @@ msgstr "Date de modification"
 
 #: zp-core/admin-globals.php:58
 msgid "overview"
-msgstr "aperçu"
+msgstr "समीक्षा"
 
 #: zp-core/admin-globals.php:71 zp-core/zp-extensions/tinyURL.php:85
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage-functions.php:467
 #: zp-core/zp-extensions/tweet_news.php:414
 msgid "pages"
-msgstr "pages"
+msgstr "पन्ने"
 
 #: zp-core/admin-globals.php:78
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage-functions.php:468
 #: zp-core/zp-extensions/zenpage/admin-edit.php:188
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:997
 msgid "articles"
-msgstr "articles"
+msgstr "लेख:"
 
 #: zp-core/admin-globals.php:79
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage-functions.php:469
 msgid "categories"
-msgstr "catégories"
+msgstr "विषयवस्तु"
 
 #: zp-core/admin-globals.php:85
 msgid "tags"
-msgstr "tags"
+msgstr "टैग"
 
 #: zp-core/admin-globals.php:102
 msgid "general"
@@ -3063,7 +3063,7 @@ msgstr "général"
 
 #: zp-core/admin-globals.php:106
 msgid "gallery"
-msgstr "galerie"
+msgstr "गेलरी"
 
 #: zp-core/admin-globals.php:115
 msgid "plugin"
@@ -3071,11 +3071,11 @@ msgstr "extension"
 
 #: zp-core/admin-globals.php:118
 msgid "search"
-msgstr "recherche"
+msgstr "खोज"
 
 #: zp-core/admin-globals.php:122
 msgid "theme"
-msgstr "thème"
+msgstr "थीम रंग"
 
 #: zp-core/admin-globals.php:124
 msgid "options"
@@ -3083,7 +3083,7 @@ msgstr "options"
 
 #: zp-core/admin-globals.php:131
 msgid "themes"
-msgstr "thèmes"
+msgstr "विषयों"
 
 #: zp-core/admin-globals.php:138
 msgid "plugins"
@@ -18570,7 +18570,7 @@ msgstr ""
 
 #: zp-core/zp-extensions/rating.php:85
 msgid "open"
-msgstr "ouvert"
+msgstr "शुरू करो"
 
 #: zp-core/zp-extensions/rating.php:85
 msgid "members &amp; guests"
@@ -18582,7 +18582,7 @@ msgstr "membres seulement"
 
 #: zp-core/zp-extensions/rating.php:85
 msgid "closed"
-msgstr "fermé"
+msgstr "बंद"
 
 #: zp-core/zp-extensions/rating.php:95
 msgid "Voting state"
@@ -18609,7 +18609,7 @@ msgstr "Étoiles partielles"
 
 #: zp-core/zp-extensions/rating.php:101
 msgid "full"
-msgstr "complètes"
+msgstr "पूरा"
 
 #: zp-core/zp-extensions/rating.php:101
 msgid "half"
