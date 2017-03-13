@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-13 21:01+0100\n"
+"PO-Revision-Date: 2017-03-13 21:16+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -247,7 +247,7 @@ msgstr ""
 #: themes/garland/themeoptions.php:75 themes/zenpage/themeoptions.php:66
 #: themes/zpmobile/themeoptions.php:38
 msgid "Allow search"
-msgstr "Autoriser la recherche"
+msgstr "السماح للبحث"
 
 #: themes/basic/themeoptions.php:43
 #: themes/effervescence_plus/themeoptions.php:108
@@ -12774,7 +12774,7 @@ msgstr "Email sécurisé"
 
 #: zp-core/zp-extensions/PHPMailer.php:58
 msgid "no"
-msgstr "non"
+msgstr "لا"
 
 #: zp-core/zp-extensions/PHPMailer.php:58
 msgid "SSL"
@@ -12790,7 +12790,7 @@ msgstr "Sélectionner SSL ou TLS pour utiliser un protocole sécurisé."
 
 #: zp-core/zp-extensions/PHPMailer.php:60
 msgid "Mail user"
-msgstr "Utilisateur email"
+msgstr "مستخدم البريد"
 
 #: zp-core/zp-extensions/PHPMailer.php:61
 msgid "<em>User ID</em> for mail server."
@@ -12798,7 +12798,7 @@ msgstr "<em>Identifiant</em> pour le serveur d’email."
 
 #: zp-core/zp-extensions/PHPMailer.php:62
 msgid "Mail password"
-msgstr "Mot de passe email"
+msgstr "كلمة السر"
 
 #: zp-core/zp-extensions/PHPMailer.php:63
 msgid "<em>Password</em> for mail server."
@@ -12863,7 +12863,7 @@ msgstr ""
 
 #: zp-core/zp-extensions/auto_backup.php:60
 msgid "Last backup"
-msgstr "Dernière sauvegarde"
+msgstr "النسخة الاحتياطية الاخيرة"
 
 #: zp-core/zp-extensions/auto_backup.php:62
 #, php-format
@@ -12915,7 +12915,7 @@ msgstr ""
 #: zp-core/zp-extensions/bxslider_thumb_nav.php:53
 #: zp-core/zp-extensions/cacheManager.php:257
 msgid "Width"
-msgstr "Largeur"
+msgstr "العرض"
 
 #: zp-core/zp-extensions/bxslider_thumb_nav.php:54
 msgid "Width of the thumb. Note that the CSS might need to be adjusted."
@@ -12925,7 +12925,7 @@ msgstr ""
 #: zp-core/zp-extensions/bxslider_thumb_nav.php:56
 #: zp-core/zp-extensions/cacheManager.php:257
 msgid "Height"
-msgstr "Hauteur"
+msgstr "الارتفاع"
 
 #: zp-core/zp-extensions/bxslider_thumb_nav.php:57
 msgid "Height of the thumb. Note that the CSS might need to be adjusted."
@@ -12949,7 +12949,7 @@ msgstr "Rognage : hauteur"
 #: zp-core/zp-extensions/bxslider_thumb_nav.php:65
 #: zp-core/zp-extensions/slideshow.php:89
 msgid "Speed"
-msgstr "Vitesse"
+msgstr "السرعة"
 
 #: zp-core/zp-extensions/bxslider_thumb_nav.php:66
 msgid "The speed in miliseconds the slides advance when clicked.)"
