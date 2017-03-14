@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-14 20:40+0100\n"
+"PO-Revision-Date: 2017-03-14 21:31+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -2146,7 +2146,7 @@ msgstr "Actualiser les métadonnées de %s"
 #: zp-core/admin-edit.php:1252 zp-core/admin-refresh-metadata.php:45
 #: zp-core/utilities/refresh_metadata.php:6
 msgid "Refresh Metadata"
-msgstr "Actualiser les métadonnées"
+msgstr "التعريف التحديث"
 
 #: zp-core/admin-edit.php:1261
 msgid "Crop thumbnail"
@@ -2303,7 +2303,7 @@ msgstr "Guide de l’utilisateur"
 
 #: zp-core/admin-functions.php:35 zp-core/setup/setup-functions.php:579
 msgid "Forum"
-msgstr "Forum"
+msgstr "منتدى"
 
 #: zp-core/admin-functions.php:36
 msgid "Bugtracker"
@@ -2536,12 +2536,13 @@ msgid "Reset rating (%u stars)"
 msgstr "Effacer les votes (%u étoiles)"
 
 #: zp-core/admin-functions.php:1837
+#, fuzzy
 msgid "Rename Folder"
 msgstr "Renommer le dossier"
 
 #: zp-core/admin-functions.php:1854 zp-core/template-functions.php:227
 msgid "Delete album"
-msgstr "Supprimer l’album"
+msgstr "حذف الألبوم"
 
 #: zp-core/admin-functions.php:1859
 msgid "Album will be deleted when changes are applied."
@@ -3861,6 +3862,7 @@ msgid "Gallery password hint:"
 msgstr "Astuce pour le mot de passe de la galerie : "
 
 #: zp-core/admin-options.php:1213 zp-core/admin-options.php:1546
+#, fuzzy
 msgid "A reminder hint for the password."
 msgstr "Un truc pour se souvenir du mot de passe."
 
@@ -6069,6 +6071,7 @@ msgid "Search cache cleared."
 msgstr "Cache de recherche vidé."
 
 #: zp-core/admin.php:84
+#, fuzzy
 msgid "enabled"
 msgstr "activé"
 
@@ -14096,8 +14099,9 @@ msgstr "Le commentaires est bloqué"
 
 #: zp-core/zp-extensions/comment_form/admin-comments.php:201
 #: zp-core/zp-extensions/comment_form/admin-comments.php:353
+#, fuzzy
 msgid "Approve"
-msgstr ""
+msgstr "Approuver"
 
 #: zp-core/zp-extensions/comment_form/admin-comments.php:202
 msgid "Approve this comment"

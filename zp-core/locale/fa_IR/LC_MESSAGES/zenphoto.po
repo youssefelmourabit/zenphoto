@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:15+0100\n"
-"PO-Revision-Date: 2017-03-14 20:45+0100\n"
+"PO-Revision-Date: 2017-03-14 21:37+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1095,7 +1095,7 @@ msgstr "Images récentes"
 
 #: themes/garland/image.php:118
 msgid "Next image"
-msgstr "Image suivante"
+msgstr "تصویر بعدی"
 
 #: themes/garland/image.php:119
 msgid "Next »"
@@ -1103,7 +1103,7 @@ msgstr "Suivante ››"
 
 #: themes/garland/image.php:128
 msgid "Previous image"
-msgstr "Image précédente"
+msgstr "تصویر قبلی"
 
 #: themes/garland/image.php:129
 msgid "« Previous"
@@ -1298,7 +1298,7 @@ msgstr "Archives"
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:246
 #: zp-core/zp-extensions/related_items.php:174
 msgid "Album"
-msgstr "Album"
+msgstr "آلبوم"
 
 #: themes/zpmobile/functions.php:96
 msgid "Powered by"
@@ -2286,7 +2286,7 @@ msgstr "Connecté sous %1$s (dernière connexion : %2$s)"
 
 #: zp-core/admin-functions.php:260
 msgid "Log Out"
-msgstr "Se déconnecter"
+msgstr "خروج"
 
 #: zp-core/admin-functions.php:266
 #, php-format
@@ -2308,7 +2308,7 @@ msgstr "Voir l’accueil de la galerie"
 #: zp-core/zp-extensions/related_items.php:152
 #: zp-core/zp-extensions/tweet_news.php:90
 msgid "Images"
-msgstr "Images"
+msgstr "تصورات"
 
 #: zp-core/admin-functions.php:453
 msgid "Image order"
@@ -2343,7 +2343,7 @@ msgstr "Propriétaire"
 
 #: zp-core/admin-functions.php:1252
 msgid "Album Title"
-msgstr "Titre de l’album"
+msgstr "عنوان آلبوم"
 
 #: zp-core/admin-functions.php:1261
 msgid "Album Description:"
