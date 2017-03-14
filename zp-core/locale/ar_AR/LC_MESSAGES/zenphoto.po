@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-13 21:20+0100\n"
+"PO-Revision-Date: 2017-03-14 20:40+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -2092,20 +2092,20 @@ msgstr "Utilitaires"
 
 #: zp-core/admin-edit.php:1155
 msgid "Rename File"
-msgstr "Renommer le fichier"
+msgstr "إعادة تسمية الملف"
 
 #: zp-core/admin-edit.php:1160
 #: zp-core/zp-extensions/publishContent/publishContent.php:356
 msgid "Are you sure you want to select this image for deletion?"
-msgstr "Êtes-vous certain(e) de vous vouloir supprimer cette image ?"
+msgstr "هل أنت متأكد من أنك تريد تحديد هذه الصورة للحذف؟"
 
 #: zp-core/admin-edit.php:1160 zp-core/template-functions.php:258
 msgid "Delete image"
-msgstr "Supprimer l’image"
+msgstr "حذف الصورة"
 
 #: zp-core/admin-edit.php:1164 zp-core/admin-edit.php:1191
 msgid "to"
-msgstr "vers"
+msgstr "الى"
 
 #: zp-core/admin-edit.php:1187 zp-core/admin-edit.php:1193
 #: zp-core/admin-edit.php:1199 zp-core/admin-functions.php:1862
@@ -2116,7 +2116,7 @@ msgstr "vers"
 #: zp-core/zp-extensions/uploader_http/upload_form.php:72
 #: zp-core/zp-extensions/uploader_jQuery/upload_form.php:142
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "الغاء"
 
 #: zp-core/admin-edit.php:1198
 msgid "Image will be deleted when changes are applied."
@@ -2156,12 +2156,12 @@ msgstr "Rogner la vignette"
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:300
 #: zp-core/zp-extensions/zenpage/admin-edit.php:414
 msgid "Title:"
-msgstr "Titre : "
+msgstr "العنوان:"
 
 #: zp-core/admin-edit.php:1292
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:296
 msgid "Description:"
-msgstr "Description : "
+msgstr "الوصف:"
 
 #: zp-core/admin-edit.php:1300
 msgid "Set as thumbnail for:"
@@ -2200,7 +2200,7 @@ msgstr "Données personnalisées : "
 
 #: zp-core/admin-edit.php:1404 zp-core/admin-functions.php:1391
 msgid "Location:"
-msgstr "Lieu : "
+msgstr "الموقع :"
 
 #: zp-core/admin-edit.php:1410
 #: zp-core/zp-extensions/comment_form/admin-comments.php:180
