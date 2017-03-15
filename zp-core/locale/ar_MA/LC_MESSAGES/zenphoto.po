@@ -2261,9 +2261,9 @@ msgid ""
 "Select an album to edit its description and data, or <a href=\"?"
 "page=edit&amp;massedit\">mass-edit</a> all gallery level albums."
 msgstr ""
-"Sélectionnez un album pour en modifier les détails et la description, ou <a "
-"href=\"?page=edit&amp;massedit\">modifiez en lot</a> tous les albums de la "
-"galerie."
+"اختر ألبوما لتحرير التفاصيل والوصف, ou <a "
+"href=\"?page=edit&amp;massedit\">التغيير في الكثير</a> ألبومات "
+"إستديو المصور الفوتغرافي."
 
 #: zp-core/admin-edit.php:1698 zp-core/admin-edit.php:1744
 #: zp-core/admin-edit.php:1763
@@ -5451,7 +5451,7 @@ msgstr "ترتيب أبجديا"
 
 #: zp-core/admin-tags.php:129
 msgid "Order by most used"
-msgstr "Trier par fréquence d’utilisation"
+msgstr "الترتيب حسب تواتر الاستعمال"
 
 #: zp-core/admin-tags.php:141
 msgid "Delete tags from the gallery"
@@ -5739,14 +5739,14 @@ msgstr "تحميل الصور"
 #, php-format
 msgid "This web-based upload accepts the file formats: %s, and %s."
 msgstr ""
-"Cet outil de chargement web accepte les fichiers des formats suivants : %s, "
+"هذه الأداة تحميل على شبكة الإنترنت تقبل تنسيقات الملفات التالية : %s, "
 "et %s."
 
 #: zp-core/admin-upload.php:107
 #, php-format
 msgid "This web-based upload accepts the file formats: %s and %s."
 msgstr ""
-"Cet outil de chargement web accepte les fichiers des formats suivants : %s "
+"هذه الأداة تحميل على شبكة الإنترنت تقبل تنسيقات الملفات التالية : %s "
 "et %s."
 
 #: zp-core/admin-upload.php:113
@@ -19858,7 +19858,7 @@ msgstr ""
 #: zp-core/zp-extensions/seo_cleanup.php:24
 #: zp-core/zp-extensions/sitemap-extended.php:204
 msgid "Seo"
-msgstr "Optimisation pour les moteurs de recherche"
+msgstr "محرك البحث الأمثل"
 
 #: zp-core/zp-extensions/seo_cleanup.php:26
 msgid "SEO Cleaner"
@@ -19960,7 +19960,7 @@ msgstr ""
 
 #: zp-core/zp-extensions/seo_null.php:9
 msgid "SEO <em>Null</em> filter."
-msgstr "Filtre <em>nul</em> d’optimisation pour les moteurs de recherche."
+msgstr "Filtre <em>nul</em> محرك البحث الأمثل."
 
 #: zp-core/zp-extensions/seo_null.php:10
 msgid ""

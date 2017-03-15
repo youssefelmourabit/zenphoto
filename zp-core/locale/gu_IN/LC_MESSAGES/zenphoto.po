@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:16+0100\n"
-"PO-Revision-Date: 2017-03-15 13:28+0100\n"
+"PO-Revision-Date: 2017-03-15 20:30+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1649,7 +1649,7 @@ msgstr "Impossible d’enregistrer le fichier de l’album"
 
 #: zp-core/admin-dynamic-album.php:149
 msgid "Album name:"
-msgstr "Nom de l’album :"
+msgstr "एल्बम का नाम:"
 
 #: zp-core/admin-dynamic-album.php:155
 msgid "Create in:"
@@ -1657,7 +1657,7 @@ msgstr "Créer dans : "
 
 #: zp-core/admin-dynamic-album.php:190 zp-core/admin-functions.php:1613
 msgid "Thumbnail:"
-msgstr "Vignette : "
+msgstr "विनेट:"
 
 #: zp-core/admin-dynamic-album.php:223
 msgid "Search criteria:"
@@ -1669,7 +1669,7 @@ msgstr "Renvoie les albums trouvés"
 
 #: zp-core/admin-dynamic-album.php:227
 msgid "Return images found"
-msgstr "Renvoie les images trouvées"
+msgstr "पाया छवियों को भेजता है"
 
 #: zp-core/admin-dynamic-album.php:228
 msgid "Return unpublished items"
@@ -1698,7 +1698,7 @@ msgstr "Champs de recherche : "
 
 #: zp-core/admin-dynamic-album.php:290
 msgid "Create the album"
-msgstr "Créer l’album"
+msgstr "एल्बम बनाएं"
 
 #: zp-core/admin-edit.php:419
 msgid ""
@@ -1775,21 +1775,21 @@ msgstr "Effacer les tags des images"
 #: zp-core/admin-edit.php:584 zp-core/admin-edit.php:1145
 #: zp-core/admin-functions.php:1825
 msgid "Move"
-msgstr "Déplacer"
+msgstr "चाल"
 
 #: zp-core/admin-edit.php:585 zp-core/admin-edit.php:1150
 #: zp-core/admin-functions.php:1831
 #: zp-core/zp-extensions/zenpage/admin-edit.php:549
 msgid "Copy"
-msgstr "Copier"
+msgstr "प्रतिलिपि"
 
 #: zp-core/admin-edit.php:670
 msgid "Image metadata refreshed."
-msgstr "Les métadonnées des images ont été actualisées."
+msgstr "छवियों के मेटाडाटा को अद्यतन किया गया।"
 
 #: zp-core/admin-edit.php:717 zp-core/admin-edit.php:1655
 msgid " descending"
-msgstr " décroissant"
+msgstr "उतरते"
 
 #: zp-core/admin-edit.php:726
 #, php-format
@@ -1837,7 +1837,7 @@ msgstr "Nouveau sous-album dynamique"
 
 #: zp-core/admin-edit.php:775 zp-core/admin-edit.php:1709
 msgid "Edit this album"
-msgstr "Modifier cet album"
+msgstr "इस एल्बम को संपादित करें"
 
 #: zp-core/admin-edit.php:784 zp-core/admin-edit.php:1714
 msgid ""
@@ -1855,7 +1855,7 @@ msgstr ""
 #: zp-core/zp-extensions/zenpage/admin-news-articles.php:250
 #: zp-core/zp-extensions/zenpage/admin-pages.php:158
 msgid "Check All"
-msgstr "Tout cocher"
+msgstr "सभी का चयन करें"
 
 #: zp-core/admin-edit.php:901
 msgid "Click on the image to change the thumbnail cropping."
@@ -1874,11 +1874,11 @@ msgstr "%s (décroissant)"
 #: zp-core/exif/makers/panasonic.php:105 zp-core/exif/makers/panasonic.php:108
 #: zp-core/exif/makers/panasonic.php:113 zp-core/exif/makers/panasonic.php:139
 msgid "Manual"
-msgstr "Manuel"
+msgstr "गाइड"
 
 #: zp-core/admin-edit.php:913
 msgid "Display images by:"
-msgstr "Afficher les images par :"
+msgstr "द्वारा छवियों देखें:"
 
 #: zp-core/admin-edit.php:944 zp-core/admin-edit.php:1517
 #: zp-core/admin-edit.php:1608 zp-core/admin-edit.php:1639
@@ -1910,7 +1910,7 @@ msgstr "Afficher les images par :"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:358
 #: zp-core/zp-extensions/zenpage/admin-edit.php:820
 msgid "Reset"
-msgstr "Réinitialiser"
+msgstr "रीसेट"
 
 #: zp-core/admin-edit.php:988 zp-core/admin-edit.php:1259
 #, php-format
@@ -1919,7 +1919,7 @@ msgstr "rognage %s"
 
 #: zp-core/admin-edit.php:999
 msgid "Zoom"
-msgstr "Zoom"
+msgstr "ज़ूम"
 
 #: zp-core/admin-edit.php:1004 zp-core/utilities/gallery_statistics.php:446
 #: zp-core/utilities/gallery_statistics.php:449
@@ -1935,7 +1935,7 @@ msgstr "Zoom"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:832
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1415
 msgid "View"
-msgstr "Voir"
+msgstr "राय"
 
 #: zp-core/admin-edit.php:1007
 msgid "<strong>Filename:</strong>"
@@ -1959,7 +1959,7 @@ msgstr "<strong>Taille :</strong>"
 
 #: zp-core/admin-edit.php:1017
 msgid "Owner:"
-msgstr "Propriétaire : "
+msgstr "मालिक:"
 
 #: zp-core/admin-edit.php:1032 zp-core/admin-functions.php:1712
 #: zp-core/lib-auth.php:533 zp-core/lib-auth.php:534 zp-core/lib-auth.php:535
@@ -1968,7 +1968,7 @@ msgstr "Propriétaire : "
 #: zp-core/lib-auth.php:586 zp-core/lib-auth.php:587
 #: zp-core/zp-extensions/zenpage/admin-edit.php:651
 msgid "General"
-msgstr "Général"
+msgstr "सामान्य"
 
 #: zp-core/admin-edit.php:1036 zp-core/admin-functions.php:1716
 #: zp-core/admin-functions.php:2155 zp-core/admin-globals.php:31
@@ -1977,11 +1977,11 @@ msgstr "Général"
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:674
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1537
 msgid "Published"
-msgstr "Publié"
+msgstr "प्रकाशित"
 
 #: zp-core/admin-edit.php:1044 zp-core/admin-functions.php:1724
 msgid "Allow Comments"
-msgstr "Autoriser les commentaires"
+msgstr "टिप्पणियों की अनुमति"
 
 #: zp-core/admin-edit.php:1055 zp-core/zp-extensions/zenpage/admin-edit.php:664
 #, php-format
@@ -2008,25 +2008,25 @@ msgstr "Effacer les votes (pas encore évalué)"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:591
 #: zp-core/zp-extensions/zenpage/admin-edit.php:619
 msgid "calendar"
-msgstr "calendrier"
+msgstr "कैलेंडर"
 
 #: zp-core/admin-edit.php:1097 zp-core/admin-edit.php:1122
 #: zp-core/admin-functions.php:1777 zp-core/admin-functions.php:1802
 msgid "Future publishing date."
-msgstr "Date de publication ultérieure."
+msgstr "तिथि बाद में प्रकाशन।"
 
 #: zp-core/admin-edit.php:1108 zp-core/admin-edit.php:1132
 #: zp-core/admin-functions.php:1788 zp-core/admin-functions.php:1812
 msgid "Expired!"
-msgstr "Expiré !"
+msgstr "समय सीमा समाप्त!"
 
 #: zp-core/admin-edit.php:1117 zp-core/admin-functions.php:1797
 msgid "Publish date"
-msgstr "Date de publication"
+msgstr "प्रकाशन की तिथि"
 
 #: zp-core/admin-edit.php:1127 zp-core/admin-functions.php:1807
 msgid "Expiration date"
-msgstr "Date d’expiration"
+msgstr "एक्सपायरी डेट"
 
 #: zp-core/admin-edit.php:1139 zp-core/admin-functions.php:1819
 msgid "Utilities"
@@ -2034,20 +2034,20 @@ msgstr "Utilitaires"
 
 #: zp-core/admin-edit.php:1155
 msgid "Rename File"
-msgstr "Renommer le fichier"
+msgstr "फ़ाइल का नाम बदलें"
 
 #: zp-core/admin-edit.php:1160
 #: zp-core/zp-extensions/publishContent/publishContent.php:356
 msgid "Are you sure you want to select this image for deletion?"
-msgstr "Êtes-vous certain(e) de vous vouloir supprimer cette image ?"
+msgstr "आपको लगता है कि आप इस छवि हटाना चाहते हैं (?"
 
 #: zp-core/admin-edit.php:1160 zp-core/template-functions.php:258
 msgid "Delete image"
-msgstr "Supprimer l’image"
+msgstr "छवि को नष्ट"
 
 #: zp-core/admin-edit.php:1164 zp-core/admin-edit.php:1191
 msgid "to"
-msgstr "vers"
+msgstr "को"
 
 #: zp-core/admin-edit.php:1187 zp-core/admin-edit.php:1193
 #: zp-core/admin-edit.php:1199 zp-core/admin-functions.php:1862
@@ -2058,7 +2058,7 @@ msgstr "vers"
 #: zp-core/zp-extensions/uploader_http/upload_form.php:72
 #: zp-core/zp-extensions/uploader_jQuery/upload_form.php:142
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "रद्द करना"
 
 #: zp-core/admin-edit.php:1198
 msgid "Image will be deleted when changes are applied."
@@ -2098,20 +2098,20 @@ msgstr "Rogner la vignette"
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:300
 #: zp-core/zp-extensions/zenpage/admin-edit.php:414
 msgid "Title:"
-msgstr "Titre : "
+msgstr "शीर्षक:"
 
 #: zp-core/admin-edit.php:1292
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:296
 msgid "Description:"
-msgstr "Description : "
+msgstr "विवरण:"
 
 #: zp-core/admin-edit.php:1300
 msgid "Set as thumbnail for:"
-msgstr "Utiliser comme vignette pour :"
+msgstr "एक झलक के रूप में उपयोग के लिए:"
 
 #: zp-core/admin-edit.php:1342
 msgid "Image watermark:"
-msgstr "Filigrane de l’image : "
+msgstr "वॉटरमार्क छवि:"
 
 #: zp-core/admin-edit.php:1345 zp-core/admin-functions.php:1572
 #: zp-core/admin-functions.php:1587
@@ -2142,22 +2142,22 @@ msgstr "Données personnalisées : "
 
 #: zp-core/admin-edit.php:1404 zp-core/admin-functions.php:1391
 msgid "Location:"
-msgstr "Lieu : "
+msgstr "जगह:"
 
 #: zp-core/admin-edit.php:1410
 #: zp-core/zp-extensions/comment_form/admin-comments.php:180
 msgid "City:"
-msgstr "Ville : "
+msgstr "शहर:"
 
 #: zp-core/admin-edit.php:1416
 #: zp-core/zp-extensions/comment_form/admin-comments.php:182
 msgid "State:"
-msgstr "État, province : "
+msgstr "राज्य:"
 
 #: zp-core/admin-edit.php:1422
 #: zp-core/zp-extensions/comment_form/admin-comments.php:184
 msgid "Country:"
-msgstr "Pays : "
+msgstr "देश:"
 
 #: zp-core/admin-edit.php:1428
 msgid "Credit:"
@@ -2300,7 +2300,7 @@ msgstr "Connecté sous %1$s (dernière connexion : %2$s)"
 
 #: zp-core/admin-functions.php:260
 msgid "Log Out"
-msgstr "Se déconnecter"
+msgstr "लोग आउट"
 
 #: zp-core/admin-functions.php:266
 #, php-format
@@ -2309,7 +2309,7 @@ msgstr "Voir <em>%s</em>"
 
 #: zp-core/admin-functions.php:268
 msgid "View gallery index"
-msgstr "Voir l’accueil de la galerie"
+msgstr "गैलरी सूचकांक देखें"
 
 #: zp-core/admin-functions.php:447 zp-core/admin-functions.php:1579
 #: zp-core/admin-functions.php:2028 zp-core/admin-options.php:1986
@@ -2353,7 +2353,7 @@ msgstr "Ajouter des tags"
 #: zp-core/admin-functions.php:1235 zp-core/admin-globals.php:30
 #: zp-core/class-search.php:109 zp-core/zp-extensions/favoritesHandler.php:139
 msgid "Owner"
-msgstr "Propriétaire"
+msgstr "मालिक:"
 
 #: zp-core/admin-functions.php:1252
 msgid "Album Title"
