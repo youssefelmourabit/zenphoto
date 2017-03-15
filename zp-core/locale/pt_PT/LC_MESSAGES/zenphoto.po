@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:17+0100\n"
-"PO-Revision-Date: 2017-03-12 16:07+0100\n"
+"PO-Revision-Date: 2017-03-15 12:47+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -170,42 +170,42 @@ msgstr "Cor do tema"
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage.php:39
 #: zp-core/zp-extensions/user_login-out.php:152
 msgid "close"
-msgstr "fermer"
+msgstr "fechar"
 
 #: themes/basic/image.php:44 themes/zenpage/image.php:43
 #: themes/zpmobile/image.php:32
 msgid "Previous Image"
-msgstr "Image précédente"
+msgstr "Imagem anterior"
 
 #: themes/basic/image.php:48 themes/zenpage/image.php:45
 #: themes/zpmobile/image.php:35
 msgid "Next Image"
-msgstr "Image suivante"
+msgstr "Próxima imagem"
 
 #: themes/basic/index.php:68 themes/basic/password.php:40
 #: themes/effervescence_plus/functions.php:413 themes/garland/functions.php:134
 #: themes/zenpage/password.php:43 themes/zenpage/sidebar.php:129
 #: themes/zenpage/sidebar.php:131 themes/zpmobile/password.php:34
 msgid "Register for this site"
-msgstr "Inscrivez-vous à ce site"
+msgstr "Registrar-se neste site"
 
 #: themes/basic/password.php:29 themes/effervescence_plus/password.php:30
 #: themes/zenpage/password.php:32 themes/zpmobile/password.php:26
 msgid "A password is required for the page you requested"
-msgstr "Un mot de passe est nécessaire pour accéder à cette page"
+msgstr "Uma senha é necessária para a página que você solicitou"
 
 #: themes/basic/register.php:28 themes/effervescence_plus/register.php:40
 #: themes/garland/register.php:43 zp-core/template-functions.php:449
 #: zp-core/zp-extensions/html_meta_tags.php:251
 #: zp-core/zp-extensions/register_user.php:55
 msgid "Register"
-msgstr "Inscrivez-vous"
+msgstr "Registrar-se"
 
 #: themes/basic/register.php:31 themes/effervescence_plus/register.php:51
 #: themes/garland/register.php:45 themes/zenpage/register.php:38
 #: themes/zpmobile/register.php:27
 msgid "User Registration"
-msgstr "Inscription d’un utilisateur"
+msgstr "Registro do Usuário"
 
 #: themes/basic/search.php:44
 #, php-format
@@ -292,16 +292,16 @@ msgstr "Page non trouvée"
 #: zp-core/zp-extensions/slideshow.php:749
 #: zp-core/zp-extensions/slideshow2.php:733
 msgid "Search"
-msgstr "Recherche"
+msgstr "Pesquisar"
 
 #: themes/effervescence_plus/album.php:144
 #: themes/effervescence_plus/favorites.php:184
 msgid "Album is empty"
-msgstr "L’album est vide"
+msgstr "O álbum está vazio"
 
 #: themes/effervescence_plus/archive.php:52 themes/garland/archive.php:45
 msgid "Images By Date"
-msgstr "Images par date"
+msgstr "Imagens por data"
 
 #: themes/effervescence_plus/archive.php:57 themes/garland/archive.php:50
 #: themes/zenpage/archive.php:43 themes/zpmobile/archive.php:33
@@ -312,7 +312,7 @@ msgstr "Archives des actualités"
 #: zp-core/template-functions.php:449
 #: zp-core/zp-extensions/html_meta_tags.php:251
 msgid "Contact"
-msgstr "Contact"
+msgstr "Contacto"
 
 #: themes/effervescence_plus/favorites.php:50
 msgid "Search gallery"
@@ -333,13 +333,11 @@ msgstr "Présentation"
 #: themes/effervescence_plus/functions.php:179
 #: themes/effervescence_plus/indexpage.php:81
 msgid "There were no images from which to select the random heading."
-msgstr ""
-"Il n’y a aucune image parmi lesquelles en choisir une aléatoirement pour la "
-"une."
+msgstr "Não havia nenhuma imagem do que para selecionar o título aleatório."
 
 #: themes/effervescence_plus/functions.php:198
 msgid "Random picture..."
-msgstr "Image aléatoire..."
+msgstr "Foto aleatória..."
 
 #: themes/effervescence_plus/functions.php:229
 #: zp-core/zp-extensions/menu_manager.php:1095
@@ -455,14 +453,14 @@ msgstr[1] "%u commentaires"
 
 #: themes/effervescence_plus/functions.php:426 themes/garland/functions.php:149
 msgid "album"
-msgstr "album"
+msgstr "álbum"
 
 #: themes/effervescence_plus/functions.php:426 themes/garland/functions.php:149
 #: zp-core/admin-edit.php:1359 zp-core/admin-globals.php:110
 #: zp-core/admin-options.php:2734
 #: zp-core/zp-extensions/image_album_statistics.php:264
 msgid "image"
-msgstr "image"
+msgstr "imagem"
 
 #: themes/effervescence_plus/functions.php:426 themes/garland/functions.php:149
 msgid "video"
@@ -2273,7 +2271,7 @@ msgstr "%1$s %2$s : %3$s%4$s"
 #: zp-core/pluginDoc.php:133 zp-core/zp-extensions/user-expiry.php:106
 #: zp-core/zp-extensions/user_groups.php:217
 msgid "admin"
-msgstr "gestion"
+msgstr "Administrer"
 
 #: zp-core/admin-functions.php:146
 msgid "You have unsaved changes!"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:16+0100\n"
-"PO-Revision-Date: 2017-03-13 21:03+0100\n"
+"PO-Revision-Date: 2017-03-15 13:28+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -257,7 +257,7 @@ msgstr "Cocher pour activer le formulaire de recherche."
 #: themes/basic/themeoptions.php:44
 #: themes/effervescence_plus/themeoptions.php:115
 msgid "Theme colors"
-msgstr "Couleurs du thème"
+msgstr "विषयवस्तु रंग"
 
 #: themes/basic/themeoptions.php:44
 #: themes/effervescence_plus/themeoptions.php:115
@@ -2857,7 +2857,7 @@ msgstr "installation"
 #: zp-core/admin-functions.php:4514 zp-core/admin-globals.php:108
 #: zp-core/admin-options.php:1028
 msgid "security"
-msgstr "sécurité"
+msgstr "सुरक्षा"
 
 #: zp-core/admin-functions.php:4514 zp-core/admin-options.php:1028
 #: zp-core/zp-extensions/markRelease.php:45
@@ -2874,7 +2874,7 @@ msgstr "démonstrateur"
 #: zp-core/zp-extensions/rewriteRules.php:24
 #: zp-core/zp-extensions/rewriteTokens.php:189
 msgid "development"
-msgstr "développement"
+msgstr "इंग्लैंड हिन शब्दकोश"
 
 #: zp-core/admin-functions.php:4558
 msgid "feed"
@@ -2886,11 +2886,11 @@ msgstr "Email"
 
 #: zp-core/admin-functions.php:4560
 msgid "media"
-msgstr "médias"
+msgstr "मीडिया"
 
 #: zp-core/admin-functions.php:4561
 msgid "misc"
-msgstr "divers"
+msgstr "विविध"
 
 #: zp-core/admin-functions.php:4562
 msgid "spam"
@@ -2909,14 +2909,14 @@ msgstr "chargement"
 #: zp-core/zp-extensions/user-expiry.php:104
 #: zp-core/zp-extensions/user_groups.php:214
 msgid "users"
-msgstr "utilisateurs"
+msgstr "उपयोगकर्ता"
 
 #: zp-core/admin-functions.php:4686
 #: zp-core/zp-extensions/defaultCodeblocks.php:34
 #: zp-core/zp-extensions/related_items.php:181
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage.php:101
 msgid "Image"
-msgstr "Image"
+msgstr "छवि"
 
 #: zp-core/admin-functions.php:4692
 #, php-format
@@ -6118,7 +6118,7 @@ msgstr "clone"
 #: zp-core/admin.php:333
 #, php-format
 msgid "source: %s"
-msgstr "source : %s"
+msgstr "स्रोत : %s"
 
 #: zp-core/admin.php:340
 #, php-format
@@ -6213,7 +6213,7 @@ msgstr "Version de %1$s : <strong>%2$s</strong>"
 #: zp-core/admin.php:480 zp-core/utilities/database_reference.php:105
 #, php-format
 msgid "Database name: <strong>%1$s</strong>"
-msgstr "Nom de la base de données : <strong>%s</strong>"
+msgstr "डेटाबेस नाम : <strong>%s</strong>"
 
 #: zp-core/admin.php:485 zp-core/utilities/database_reference.php:111
 #, php-format
@@ -6227,7 +6227,7 @@ msgstr "Aucun filtre de contenu indésirable n’a été configuré"
 #: zp-core/admin.php:496
 #, php-format
 msgid "Spam filter: <strong>%s</strong>"
-msgstr "Filtre anti-spam : <strong>%s</strong>"
+msgstr "स्पैम छांटना : <strong>%s</strong>"
 
 #: zp-core/admin.php:502
 #, php-format
@@ -6534,7 +6534,7 @@ msgstr "Titre-lien"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:699
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1329
 msgid "Categories"
-msgstr "Catégories"
+msgstr "विषयवस्तु"
 
 #: zp-core/exif/exif.php:465
 msgid "1: Normal (0 deg)"
@@ -7332,7 +7332,7 @@ msgstr "SWGA fin"
 
 #: zp-core/exif/makers/nikon.php:175
 msgid "Color"
-msgstr "Couleur"
+msgstr "थीम रंग"
 
 #: zp-core/exif/makers/nikon.php:185
 msgid "Bright+"

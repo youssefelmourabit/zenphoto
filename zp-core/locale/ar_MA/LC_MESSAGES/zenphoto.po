@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-14 21:31+0100\n"
+"PO-Revision-Date: 2017-03-15 14:43+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -1445,7 +1445,7 @@ msgstr ""
 
 #: zp-core/404.php:56 zp-core/setup/index.php:1073
 msgid "Index"
-msgstr "Accueil"
+msgstr "الفهرس"
 
 #: zp-core/404.php:56
 #, php-format
@@ -1481,7 +1481,7 @@ msgstr "*Actions en lot*"
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1423
 #: zp-core/zp-extensions/tinymce4/tinymce.min.js:7
 msgid "Delete"
-msgstr "Supprimer"
+msgstr "حذف"
 
 #: zp-core/admin-albumsort.php:75 zp-core/admin-edit.php:567
 #: zp-core/zp-extensions/zenpage/admin-categories.php:147
@@ -1619,7 +1619,7 @@ msgstr "Aucun changement"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:348
 #: zp-core/zp-extensions/zenpage/admin-edit.php:810
 msgid "Back"
-msgstr "Retour"
+msgstr "عودة"
 
 #: zp-core/admin-albumsort.php:195 zp-core/admin-albumsort.php:244
 #: zp-core/admin-edit.php:755 zp-core/admin-edit.php:817
@@ -1664,26 +1664,26 @@ msgstr "Retour"
 #: zp-core/zp-extensions/zenpage/admin-pages.php:177
 #: zp-core/zp-extensions/zenpage/admin-pages.php:179
 msgid "Apply"
-msgstr "Appliquer"
+msgstr "تطبيق"
 
 #: zp-core/admin-albumsort.php:199 zp-core/admin-albumsort.php:248
 #: zp-core/admin-functions.php:1222 zp-core/admin-functions.php:1982
 msgid "View Album"
-msgstr "Voir l’album"
+msgstr "عرض الالبوم"
 
 #: zp-core/admin-albumsort.php:203
 msgid "Set the image order by dragging them to the positions you desire."
-msgstr "Choisissez l’ordre des images en les déplaçant dans l’ordre désiré."
+msgstr "تعيين ترتيب الصورة عن طريق سحبها إلى المواضع التي تريدها."
 
 #: zp-core/admin-albumsort.php:219 zp-core/admin-functions.php:3238
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:31
 #: zp-core/zp-extensions/zenpage/admin-edit.php:124
 msgid "edit"
-msgstr "modifier"
+msgstr "تحرير"
 
 #: zp-core/admin-dynamic-album.php:43
 msgid "You do not have edit rights on this album."
-msgstr "Vous n’avez pas les droits nécessaires pour modifier cet album."
+msgstr "ليس لديك حقوق تحرير في هذا الألبوم."
 
 #: zp-core/admin-dynamic-album.php:105 zp-core/admin-dynamic-album.php:249
 msgid "dynamic"
@@ -2009,7 +2009,7 @@ msgstr "<strong>Taille :</strong>"
 
 #: zp-core/admin-edit.php:1017
 msgid "Owner:"
-msgstr "Propriétaire : "
+msgstr "صاحب"
 
 #: zp-core/admin-edit.php:1032 zp-core/admin-functions.php:1712
 #: zp-core/lib-auth.php:533 zp-core/lib-auth.php:534 zp-core/lib-auth.php:535
@@ -2018,7 +2018,7 @@ msgstr "Propriétaire : "
 #: zp-core/lib-auth.php:586 zp-core/lib-auth.php:587
 #: zp-core/zp-extensions/zenpage/admin-edit.php:651
 msgid "General"
-msgstr "Général"
+msgstr "شائع"
 
 #: zp-core/admin-edit.php:1036 zp-core/admin-functions.php:1716
 #: zp-core/admin-functions.php:2155 zp-core/admin-globals.php:31
@@ -2031,7 +2031,7 @@ msgstr "Publié"
 
 #: zp-core/admin-edit.php:1044 zp-core/admin-functions.php:1724
 msgid "Allow Comments"
-msgstr "Autoriser les commentaires"
+msgstr "السماح بالتعليقات"
 
 #: zp-core/admin-edit.php:1055 zp-core/zp-extensions/zenpage/admin-edit.php:664
 #, php-format
@@ -2066,7 +2066,7 @@ msgstr "Effacer les votes (pas encore évalué)"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:591
 #: zp-core/zp-extensions/zenpage/admin-edit.php:619
 msgid "calendar"
-msgstr "calendrier"
+msgstr "التقويم"
 
 #: zp-core/admin-edit.php:1097 zp-core/admin-edit.php:1122
 #: zp-core/admin-functions.php:1777 zp-core/admin-functions.php:1802
@@ -2080,7 +2080,7 @@ msgstr "Expiré !"
 
 #: zp-core/admin-edit.php:1117 zp-core/admin-functions.php:1797
 msgid "Publish date"
-msgstr "Date de publication"
+msgstr "تاريخ النشر"
 
 #: zp-core/admin-edit.php:1127 zp-core/admin-functions.php:1807
 msgid "Expiration date"
@@ -2169,17 +2169,17 @@ msgstr "Utiliser comme vignette pour :"
 
 #: zp-core/admin-edit.php:1342
 msgid "Image watermark:"
-msgstr "Filigrane de l’image : "
+msgstr "صورة العلامة المائية:"
 
 #: zp-core/admin-edit.php:1345 zp-core/admin-functions.php:1572
 #: zp-core/admin-functions.php:1587
 msgid "*no watermark"
-msgstr "*aucun filigrane"
+msgstr "* لا مائية"
 
 #: zp-core/admin-edit.php:1346 zp-core/admin-functions.php:1573
 #: zp-core/admin-functions.php:1588
 msgid "*default"
-msgstr "*réglages par défaut"
+msgstr "* الافتراضي"
 
 #: zp-core/admin-edit.php:1360
 msgid "thumb"
@@ -2188,7 +2188,7 @@ msgstr "vignette"
 #: zp-core/admin-edit.php:1361 zp-core/zp-extensions/slideshow.php:132
 #: zp-core/zp-extensions/slideshow2.php:144
 msgid "full image"
-msgstr "image pleine grandeur"
+msgstr "الصورة الكاملة"
 
 #: zp-core/admin-edit.php:1374
 msgid "No tags assigned"
@@ -2205,17 +2205,17 @@ msgstr "الموقع :"
 #: zp-core/admin-edit.php:1410
 #: zp-core/zp-extensions/comment_form/admin-comments.php:180
 msgid "City:"
-msgstr "Ville : "
+msgstr "مدينة:"
 
 #: zp-core/admin-edit.php:1416
 #: zp-core/zp-extensions/comment_form/admin-comments.php:182
 msgid "State:"
-msgstr "État, province : "
+msgstr "حالة:"
 
 #: zp-core/admin-edit.php:1422
 #: zp-core/zp-extensions/comment_form/admin-comments.php:184
 msgid "Country:"
-msgstr "Pays : "
+msgstr "بلد:"
 
 #: zp-core/admin-edit.php:1428
 msgid "Credit:"
@@ -2223,7 +2223,7 @@ msgstr "Crédits : "
 
 #: zp-core/admin-edit.php:1434
 msgid "Copyright:"
-msgstr "Copyright : "
+msgstr "حقوق النشر:"
 
 #: zp-core/admin-edit.php:1443
 msgid "Metadata:"
@@ -2241,15 +2241,15 @@ msgstr "Blocs de code :"
 
 #: zp-core/admin-edit.php:1489
 msgid "Edit all image data"
-msgstr "Modifier toutes les données de l’image"
+msgstr "تعديل جميع بيانات الصورة"
 
 #: zp-core/admin-edit.php:1588
 msgid "Edit All Albums in"
-msgstr "Modifier tous les albums de"
+msgstr "تعديل جميع الالبومات في"
 
 #: zp-core/admin-edit.php:1647
 msgid "Edit Gallery"
-msgstr "Modifier la galerie"
+msgstr "تحرير الصور"
 
 #: zp-core/admin-edit.php:1666
 #, php-format
@@ -2268,13 +2268,13 @@ msgstr ""
 #: zp-core/admin-edit.php:1698 zp-core/admin-edit.php:1744
 #: zp-core/admin-edit.php:1763
 msgid "New album"
-msgstr "Nouvel album"
+msgstr "البوم جديد"
 
 #: zp-core/admin-edit.php:1699 zp-core/admin-edit.php:1701
 #: zp-core/admin-edit.php:1747 zp-core/admin-edit.php:1764
 #: zp-core/admin-edit.php:1766
 msgid "New dynamic album"
-msgstr "Nouvel album dynamique"
+msgstr "ألبوم ديناميكية جديدة"
 
 #: zp-core/admin-edit.php:1759
 msgid "There are no albums for you to edit."
@@ -2311,11 +2311,11 @@ msgstr "Traceur de bugs"
 
 #: zp-core/admin-functions.php:37 zp-core/setup/setup-functions.php:579
 msgid "View Change log"
-msgstr "Voir la liste des changements"
+msgstr "عرض السجل تغيير"
 
 #: zp-core/admin-functions.php:37 zp-core/setup/setup-functions.php:579
 msgid "Change log"
-msgstr "Liste des changements"
+msgstr "تغيير السجل"
 
 #: zp-core/admin-functions.php:38
 #, php-format
@@ -2331,11 +2331,11 @@ msgstr "%1$s %2$s : %3$s%4$s"
 #: zp-core/pluginDoc.php:133 zp-core/zp-extensions/user-expiry.php:106
 #: zp-core/zp-extensions/user_groups.php:217
 msgid "admin"
-msgstr "gestion"
+msgstr "مشرف"
 
 #: zp-core/admin-functions.php:146
 msgid "You have unsaved changes!"
-msgstr "Certaines modifications n’ont pas été enregistrées !"
+msgstr "لم تحفظ التغييرات!"
 
 #: zp-core/admin-functions.php:244
 #, php-format
@@ -2358,7 +2358,7 @@ msgstr "Connecté sous %1$s (dernière connexion : %2$s)"
 
 #: zp-core/admin-functions.php:260
 msgid "Log Out"
-msgstr "Se déconnecter"
+msgstr "الخروج"
 
 #: zp-core/admin-functions.php:266
 #, php-format
@@ -2367,7 +2367,7 @@ msgstr "Voir <em>%s</em>"
 
 #: zp-core/admin-functions.php:268
 msgid "View gallery index"
-msgstr "Voir l’accueil de la galerie"
+msgstr "عرض مؤشر معرض"
 
 #: zp-core/admin-functions.php:447 zp-core/admin-functions.php:1579
 #: zp-core/admin-functions.php:2028 zp-core/admin-options.php:1986
@@ -2384,7 +2384,7 @@ msgstr "صور"
 
 #: zp-core/admin-functions.php:453
 msgid "Image order"
-msgstr "Ordre des images"
+msgstr "ترتيب الصور"
 
 #: zp-core/admin-functions.php:459
 msgid "Subalbums"
@@ -2411,26 +2411,26 @@ msgstr "Ajouter des tags"
 #: zp-core/admin-functions.php:1235 zp-core/admin-globals.php:30
 #: zp-core/class-search.php:109 zp-core/zp-extensions/favoritesHandler.php:139
 msgid "Owner"
-msgstr "Propriétaire"
+msgstr "صاحب"
 
 #: zp-core/admin-functions.php:1252
 msgid "Album Title"
-msgstr "Titre de l’album"
+msgstr "عنوان الالبوم"
 
 #: zp-core/admin-functions.php:1261
 msgid "Album Description:"
-msgstr "Description de l’album : "
+msgstr "ألبوم الوصف:"
 
 #: zp-core/admin-functions.php:1274 zp-core/admin-functions.php:1316
 msgid "Album password:"
-msgstr "Mot de passe de l’album : "
+msgstr "ألبوم كلمة المرور:"
 
 #: zp-core/admin-functions.php:1289 zp-core/admin-options.php:1135
 #: zp-core/admin-options.php:1475 zp-core/admin-options.php:2238
 #: zp-core/zp-extensions/downloadList.php:109
 #: zp-core/zp-extensions/zenpage/admin-edit.php:497
 msgid "clear password"
-msgstr "effacer le mot de passe"
+msgstr "كلمة واضحة"
 
 #: zp-core/admin-functions.php:1300
 msgid "Album guest user:"
@@ -2438,7 +2438,7 @@ msgstr "Invité de l’album : "
 
 #: zp-core/admin-functions.php:1320
 msgid "Repeat password:"
-msgstr "Saisir le mot de passe de nouveau :"
+msgstr "اعد كلمة السر:"
 
 #: zp-core/admin-functions.php:1339 zp-core/admin-options.php:1198
 #: zp-core/admin-options.php:1532 zp-core/admin-options.php:2289
@@ -2446,7 +2446,7 @@ msgstr "Saisir le mot de passe de nouveau :"
 #: zp-core/zp-extensions/downloadList.php:131
 #: zp-core/zp-extensions/zenpage/admin-edit.php:534
 msgid "Show password"
-msgstr "Afficher le mot de passe"
+msgstr "عرض كلمة المرور"
 
 #: zp-core/admin-functions.php:1354 zp-core/zp-extensions/downloadList.php:143
 #: zp-core/zp-extensions/zenpage/admin-edit.php:536
@@ -2459,7 +2459,7 @@ msgstr "Astuce pour le mot de passe : "
 #: zp-core/exif/makers/fujifilm.php:93
 #: zp-core/zp-extensions/favoritesHandler.php:134
 msgid "Custom"
-msgstr "Personnalisé"
+msgstr "العادة"
 
 #: zp-core/admin-functions.php:1419
 msgid "Sort subalbums by:"
@@ -2479,7 +2479,7 @@ msgstr "*ordre de tri des images du sous-album comme celui de l’album parent"
 #: zp-core/zp-extensions/favoritesHandler.php:166
 #: zp-core/zp-extensions/favoritesHandler.php:199
 msgid "Descending"
-msgstr "Décroissant"
+msgstr "تنازلي"
 
 #: zp-core/admin-functions.php:1465 zp-core/admin-functions.php:1523
 #: zp-core/admin-options.php:1330 zp-core/admin-options.php:1716
@@ -2491,27 +2491,27 @@ msgstr "champs personnalisés :"
 #: zp-core/admin-options.php:1818
 #: zp-core/zp-extensions/favoritesHandler.php:116
 msgid "Sort images by"
-msgstr "Trier les images par"
+msgstr "صور نوع من"
 
 #: zp-core/admin-functions.php:1480
 msgid "*gallery image sort order"
-msgstr "*ordre de tri des images par défaut de la galerie"
+msgstr "* معرض ترتيب الصور الفرز"
 
 #: zp-core/admin-functions.php:1482
 msgid "*parent album image sort order"
-msgstr "*ordre de tri des images comme celui de l’album parent"
+msgstr "* الأم ألبوم ترتيب الصور الفرز"
 
 #: zp-core/admin-functions.php:1535
 msgid "Album theme:"
-msgstr "Thème de l’album : "
+msgstr "ألبوم موضوع:"
 
 #: zp-core/admin-functions.php:1547
 msgid "*gallery theme"
-msgstr "*thème de la galerie"
+msgstr "* معرض موضوع"
 
 #: zp-core/admin-functions.php:1568
 msgid "Album watermarks:"
-msgstr "Filigranes de l’album : "
+msgstr "علامات مائية الألبوم:"
 
 #: zp-core/admin-functions.php:1594 zp-core/admin-options.php:1990
 #: zp-core/utilities/reset_albumthumbs.php:34
@@ -2546,11 +2546,11 @@ msgstr "حذف الألبوم"
 
 #: zp-core/admin-functions.php:1859
 msgid "Album will be deleted when changes are applied."
-msgstr "L’album sera effacé quand les modifications seront appliquées."
+msgstr "سيتم حذف الألبوم عندما يتم تطبيق التغييرات."
 
 #: zp-core/admin-functions.php:1866 zp-core/admin-functions.php:1903
 msgid "to:"
-msgstr "vers :"
+msgstr "إلى:"
 
 #: zp-core/admin-functions.php:1917 zp-core/class-search.php:99
 #: zp-core/lib-auth.php:514 zp-core/lib-auth.php:533 zp-core/lib-auth.php:558
@@ -2564,11 +2564,11 @@ msgstr "Tags"
 
 #: zp-core/admin-functions.php:1932
 msgid "Dynamic album search:"
-msgstr "Recherche dans l’album dynamique :"
+msgstr "دينامية الألبوم البحث:"
 
 #: zp-core/admin-functions.php:2001
 msgid "Clears the album’s cached images."
-msgstr "Supprime les images en cache de l’album."
+msgstr "مسح الصور المخزنة مؤقتا الألبوم."
 
 #: zp-core/admin-functions.php:2003
 msgid "Clear album image cache"
@@ -2611,7 +2611,7 @@ msgstr "نشرت / الامم المتحدة ونشرت"
 #: zp-core/admin-functions.php:2041
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1414
 msgid "Comments on/off"
-msgstr "Commentaires actifs / désactivés"
+msgstr "تعليقات على / قبالة"
 
 #: zp-core/admin-functions.php:2042
 msgid "View the album"
@@ -2628,7 +2628,9 @@ msgstr "إعادة تعيين ضرب عدادات"
 #: zp-core/admin-functions.php:2083 zp-core/admin-functions.php:2100
 #, php-format
 msgid "Edit this album: %s"
-msgstr "Modifier cet album : %s"
+msgstr ""
+"تعديل هذا الألبوم\n"
+" : %s"
 
 #: zp-core/admin-functions.php:2113 zp-core/admin-functions.php:2116
 #: zp-core/zp-extensions/image_album_statistics.php:266
@@ -2654,7 +2656,7 @@ msgstr "Liste des sous-albums"
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:244
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1004
 msgid "Password protected"
-msgstr "Protégé par mot de passe"
+msgstr "كلمة السر المحمية"
 
 #: zp-core/admin-functions.php:2151
 #, php-format
@@ -2691,7 +2693,9 @@ msgstr "عرض الألبومn"
 #: zp-core/admin-functions.php:2214
 #, php-format
 msgid "View album %s"
-msgstr "Voir l’album %s"
+msgstr ""
+"عرض الألبوم\n"
+" %s"
 
 #: zp-core/admin-functions.php:2221 zp-core/admin-functions.php:2239
 #: zp-core/admin-functions.php:2259
@@ -2732,17 +2736,17 @@ msgstr "page %u"
 
 #: zp-core/admin-functions.php:2589 zp-core/admin-functions.php:2591
 msgid "Previous page"
-msgstr "Page précédente"
+msgstr "الصفحة السابقة"
 
 #: zp-core/admin-functions.php:2611 zp-core/admin-functions.php:2613
 #: zp-core/zp-extensions/zenpage/zenpage-template-functions.php:988
 msgid "Next page"
-msgstr "Page suivante"
+msgstr "الصفحة التالية"
 
 #: zp-core/admin-functions.php:2956 zp-core/admin-functions.php:2961
 #: zp-core/admin-functions.php:2966 zp-core/admin-functions.php:2971
 msgid "Cannot create new theme."
-msgstr "Impossible de créer le nouveau thème."
+msgstr "لا يمكن إنشاء موضوع جديد."
 
 #: zp-core/admin-functions.php:2956
 #, php-format
@@ -2797,7 +2801,7 @@ msgstr "Droits :"
 
 #: zp-core/admin-functions.php:3231
 msgid "edit rights"
-msgstr "Droits d’édition"
+msgstr "حقوق تحرير"
 
 #: zp-core/admin-functions.php:3232
 msgid "view unpublished items"
@@ -2813,13 +2817,13 @@ msgstr "l’album est dynamique"
 
 #: zp-core/admin-functions.php:3236
 msgid "Primary album"
-msgstr "Album principal"
+msgstr "ألبوم الأساسي"
 
 #: zp-core/admin-functions.php:3240 zp-core/zp-extensions/elFinder.php:76
 #: zp-core/zp-extensions/uploader_http.php:32
 #: zp-core/zp-extensions/uploader_jQuery.php:39
 msgid "upload"
-msgstr "chargement"
+msgstr "تحميل"
 
 #: zp-core/admin-functions.php:3242
 msgid "view unpublished"
@@ -2854,7 +2858,7 @@ msgstr "Sélectionnez un ou plusieurs %1$s de %2$s à gérer."
 #: zp-core/admin-functions.php:3315 zp-core/admin-users.php:788
 #: zp-core/admin-users.php:797 zp-core/admin-users.php:803
 msgid "user"
-msgstr "utilisateur"
+msgstr "المستعمل"
 
 #: zp-core/admin-functions.php:3316
 #, php-format
@@ -2897,11 +2901,11 @@ msgstr[5] ""
 #: zp-core/admin-functions.php:3777 zp-core/admin-functions.php:3789
 #: zp-core/admin-functions.php:3801 zp-core/admin-functions.php:3813
 msgid "ok"
-msgstr "Ok"
+msgstr "حسنا"
 
 #: zp-core/admin-functions.php:3884
 msgid "Destination"
-msgstr "Destination"
+msgstr "المكان المقصود"
 
 #: zp-core/admin-functions.php:4163 zp-core/admin-functions.php:4198
 #, php-format
@@ -2923,17 +2927,17 @@ msgstr "« %s » tentative d’hameçonnage bloquée."
 
 #: zp-core/admin-functions.php:4514
 msgid "setup"
-msgstr "installation"
+msgstr "اقامة"
 
 #: zp-core/admin-functions.php:4514 zp-core/admin-globals.php:108
 #: zp-core/admin-options.php:1028
 msgid "security"
-msgstr "sécurité"
+msgstr "الأمان"
 
 #: zp-core/admin-functions.php:4514 zp-core/admin-options.php:1028
 #: zp-core/zp-extensions/markRelease.php:45
 msgid "debug"
-msgstr "déboggage"
+msgstr "التصحيح"
 
 #: zp-core/admin-functions.php:4556
 msgid "demo"
@@ -2945,7 +2949,7 @@ msgstr "démonstrateur"
 #: zp-core/zp-extensions/rewriteRules.php:24
 #: zp-core/zp-extensions/rewriteTokens.php:189
 msgid "development"
-msgstr "développement"
+msgstr "تطوير"
 
 #: zp-core/admin-functions.php:4558
 msgid "feed"
@@ -2953,7 +2957,7 @@ msgstr "Flux RSS"
 
 #: zp-core/admin-functions.php:4559
 msgid "mail"
-msgstr "Email"
+msgstr "بريد"
 
 #: zp-core/admin-functions.php:4560
 msgid "media"
@@ -2973,21 +2977,21 @@ msgstr "moteurs de recherche"
 
 #: zp-core/admin-functions.php:4564
 msgid "uploader"
-msgstr "chargement"
+msgstr "رافع"
 
 #: zp-core/admin-functions.php:4565 zp-core/admin-globals.php:91
 #: zp-core/zp-extensions/user-expiry.php:94
 #: zp-core/zp-extensions/user-expiry.php:104
 #: zp-core/zp-extensions/user_groups.php:214
 msgid "users"
-msgstr "utilisateurs"
+msgstr "المستخدمين"
 
 #: zp-core/admin-functions.php:4686
 #: zp-core/zp-extensions/defaultCodeblocks.php:34
 #: zp-core/zp-extensions/related_items.php:181
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/tinyzenpage.php:101
 msgid "Image"
-msgstr "Image"
+msgstr "صورة"
 
 #: zp-core/admin-functions.php:4692
 #, php-format
@@ -3075,13 +3079,13 @@ msgstr ""
 
 #: zp-core/admin-globals.php:25 zp-core/zp-extensions/favoritesHandler.php:133
 msgid "Filename"
-msgstr "Nom de fichier"
+msgstr "اسم الملف"
 
 #: zp-core/admin-globals.php:26 zp-core/class-search.php:102
 #: zp-core/zp-extensions/favoritesHandler.php:135
 #: zp-core/zp-extensions/zenpage/admin-edit.php:580
 msgid "Date"
-msgstr "Date"
+msgstr "التاريخ:"
 
 #: zp-core/admin-globals.php:27 zp-core/class-search.php:97
 #: zp-core/zp-extensions/contact_form.php:105
@@ -3091,7 +3095,7 @@ msgstr "Date"
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:58
 #: zp-core/zp-extensions/rss.php:128
 msgid "Title"
-msgstr "Titre"
+msgstr "العنوان:"
 
 #: zp-core/admin-globals.php:28 zp-core/zp-extensions/favoritesHandler.php:137
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:353
@@ -3100,7 +3104,7 @@ msgstr "ID"
 
 #: zp-core/admin-globals.php:29 zp-core/zp-extensions/favoritesHandler.php:138
 msgid "Filemtime"
-msgstr "Date de modification"
+msgstr "تاريخ التعديل"
 
 #: zp-core/admin-globals.php:58
 msgid "overview"
@@ -3275,11 +3279,11 @@ msgstr "Lisez le guide de dépannage sur zenphoto.org pour plus de détails."
 #: zp-core/admin-users.php:465
 #: zp-core/zp-extensions/search_statistics/search_analysis.php:267
 msgid "reset"
-msgstr "reset"
+msgstr "إعادة تعيين"
 
 #: zp-core/admin-options.php:595
 msgid "Time zone:"
-msgstr "Fuseau horaire :"
+msgstr "وحدة زمنية:"
 
 #: zp-core/admin-options.php:601
 msgid "*not specified"
@@ -3388,7 +3392,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:662 zp-core/admin-users.php:749
 msgid "Language:"
-msgstr "Langue :"
+msgstr "لغة:"
 
 #: zp-core/admin-options.php:671
 msgid "HTTP_Accept_Language"
@@ -3409,15 +3413,15 @@ msgstr ""
 
 #: zp-core/admin-options.php:775
 msgid "Multi-lingual"
-msgstr "Interface multilingue"
+msgstr "متعدد اللغات"
 
 #: zp-core/admin-options.php:779
 msgid ""
 "You can disable languages by unchecking their checkboxes. Only checked "
 "languages will be available to the installation."
 msgstr ""
-"Vous pouvez désactiver certaines langues en décochant les cases "
-"correspondantes. Seules les langues cochées seront disponibles par la suite."
+"يمكنك تعطيل اللغات عن طريق إلغاء خانة الاختيار. سيكون اللغات فحص فقط متاحة "
+"للتركيب."
 
 #: zp-core/admin-options.php:780
 msgid ""
@@ -3438,11 +3442,11 @@ msgstr ""
 
 #: zp-core/admin-options.php:786
 msgid "Date format:"
-msgstr "Format de la date : "
+msgstr "صيغة التاريخ:"
 
 #: zp-core/admin-options.php:791
 msgid "Preferred date representation"
-msgstr "Format préféré pour la représentation des dates"
+msgstr "تمثيل التاريخ المفضل"
 
 #: zp-core/admin-options.php:792
 msgid "02/25/08 15:30"
@@ -3668,7 +3672,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:946
 msgid "reset to default"
-msgstr "réinitialiser"
+msgstr "إعادة تعيين إلى الافتراضي"
 
 #: zp-core/admin-options.php:952
 msgid "Cookies:"
@@ -3730,11 +3734,11 @@ msgstr ""
 
 #: zp-core/admin-options.php:991
 msgid "Name:"
-msgstr "Nom :"
+msgstr "اسم:"
 
 #: zp-core/admin-options.php:992
 msgid "Email:"
-msgstr "Email :"
+msgstr "البريد الإلكتروني:"
 
 #: zp-core/admin-options.php:998
 msgid ""
@@ -3746,7 +3750,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1002
 msgid "Users per page:"
-msgstr "Utilisateurs par page :"
+msgstr "المستخدمين في كل صفحة:"
 
 #: zp-core/admin-options.php:1003
 msgid "Plugins per page:"
@@ -3754,7 +3758,7 @@ msgstr "Extensions par page :"
 
 #: zp-core/admin-options.php:1007
 msgid "Articles per page:"
-msgstr "Articles par page :"
+msgstr "المقالات في الصفحة:"
 
 #: zp-core/admin-options.php:1025
 msgid ""
@@ -3786,37 +3790,35 @@ msgstr ""
 #: zp-core/admin-options.php:3022 zp-core/admin-options.php:3049
 #: zp-core/admin-options.php:3164 zp-core/setup/setup-sqlform.php:102
 msgid "save"
-msgstr "enregistrer"
+msgstr "حفظ"
 
 #: zp-core/admin-options.php:1090
 msgid "Gallery title:"
-msgstr "Titre de la galerie : "
+msgstr "عنوان المعرض:"
 
 #: zp-core/admin-options.php:1094
 msgid "What you want to call your Zenphoto site."
-msgstr "Le nom à donner à votre galerie."
+msgstr "ما الذي تريد الاتصال به موقع Zenphoto الخاص بك."
 
 #: zp-core/admin-options.php:1097
 msgid "Gallery description:"
-msgstr "Description de la galerie : "
+msgstr "وصف المعرض:"
 
 #: zp-core/admin-options.php:1101
 msgid "A brief description of your gallery. Some themes may display this text."
-msgstr ""
-"Description sommaire de votre galerie. Certains thèmes peuvent afficher ce "
-"texte."
+msgstr "وصف موجز لمعرض الصور الخاص بك. وقد تعرض بعض الموضوعات هذا النص."
 
 #: zp-core/admin-options.php:1104
 msgid "Gallery type"
-msgstr "Type de galerie"
+msgstr "نوع معرض"
 
 #: zp-core/admin-options.php:1106
 msgid "public"
-msgstr "Publique"
+msgstr "عامة"
 
 #: zp-core/admin-options.php:1107
 msgid "private"
-msgstr "Privée"
+msgstr "نشر"
 
 #: zp-core/admin-options.php:1110
 msgid "Private galleries are viewable only by registered users."
@@ -3825,7 +3827,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1120 zp-core/admin-options.php:1171
 msgid "Gallery password:"
-msgstr "Mot de passe de la galerie : "
+msgstr "معرض كلمة المرور:"
 
 #: zp-core/admin-options.php:1143
 msgid ""
@@ -3847,7 +3849,7 @@ msgstr "Identifiant de l’utilisateur invité"
 #: zp-core/admin-options.php:2265 zp-core/zp-extensions/downloadList.php:134
 #: zp-core/zp-extensions/zenpage/admin-edit.php:524
 msgid "(repeat)"
-msgstr "(saisir de nouveau)"
+msgstr "(كرر)"
 
 #: zp-core/admin-options.php:1202
 msgid ""
@@ -3868,7 +3870,7 @@ msgstr "Un truc pour se souvenir du mot de passe."
 
 #: zp-core/admin-options.php:1220
 msgid "Unprotected pages:"
-msgstr "Pages non protégées :"
+msgstr "الصفحات المحمية:"
 
 #: zp-core/admin-options.php:1249
 msgid ""
@@ -3880,22 +3882,22 @@ msgstr ""
 
 #: zp-core/admin-options.php:1252
 msgid "Website title:"
-msgstr "Titre du site : "
+msgstr "عنوان الموقع:"
 
 #: zp-core/admin-options.php:1256
 msgid "Your web site title."
-msgstr "Le titre de votre site internet."
+msgstr "عنوان موقع الويب الخاص بك."
 
 #: zp-core/admin-options.php:1259
 msgid "Website url:"
-msgstr "Adresse du site : "
+msgstr "رابط الموقع:"
 
 #: zp-core/admin-options.php:1262
 msgid ""
 "This is used to link back to your main site, but your theme must support it."
 msgstr ""
-"Cette adresse est utilisée pour établir un lien qui permet de retourner à "
-"votre site principal. Le thème utilisé doit gérer cette option."
+"هذا وتستخدم لربط الى موقع الرئيسي الخاص بك، ولكن الموضوع الخاص بك يجب أن "
+"يدعم ذلك."
 
 #: zp-core/admin-options.php:1265
 msgid "Album thumbnails:"
@@ -3907,7 +3909,7 @@ msgstr "Choix par défaut de la vignette utilisée pour les albums."
 
 #: zp-core/admin-options.php:1282
 msgid "Sort gallery by:"
-msgstr "Trier la galerie par : "
+msgstr "نوع معرض من قبل:"
 
 #: zp-core/admin-options.php:1341
 msgid ""
@@ -3915,10 +3917,9 @@ msgid ""
 "must be database field names. You can have multiple fields separated by "
 "commas. This option is also the default sort for albums and subalbums."
 msgstr ""
-"Ordre de tri des albums de la page d’accueil de la galerie. Les valeurs de "
-"tri personnalisées doivent correspondre à des champs de la base de données "
-"(pour en spécifier plusieurs, séparez-les par des virgules). Cette option "
-"définit aussi l’ordre de tri par défaut des albums et des sous-albums."
+"ترتيب لألبومات على مؤشر المعرض. يجب أن تكون القيم فرز مخصص أسماء الحقول "
+"قاعدة البيانات. هل يمكن أن يكون حقول متعددة مفصولة بفواصل. هذا الخيار هو "
+"أيضا نوع الافتراضي للألبومات وsubalbums."
 
 #: zp-core/admin-options.php:1346
 msgid "Gallery behavior:"
@@ -3927,16 +3928,16 @@ msgstr "Comportement de la galerie :"
 #: zp-core/admin-options.php:1351
 #: zp-core/zp-extensions/publishContent/publishContent.php:198
 msgid "Publish albums by default"
-msgstr "Publier les albums par défaut"
+msgstr "نشر ألبومات افتراضيا"
 
 #: zp-core/admin-options.php:1357
 #: zp-core/zp-extensions/publishContent/publishContent.php:200
 msgid "Publish images by default"
-msgstr "Publier les images par défaut"
+msgstr "نشر الصور افتراضيا"
 
 #: zp-core/admin-options.php:1364
 msgid "use latest image date as album date"
-msgstr "utiliser la date de la plus récente image comme date de l’album"
+msgstr "استخدام أحدث تاريخ صورة كتاريخ الألبوم"
 
 #: zp-core/admin-options.php:1371
 msgid "visual thumb selection"
@@ -4052,7 +4053,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1461 zp-core/admin-options.php:1505
 msgid "Search password:"
-msgstr "Mot de passe pour la recherche : "
+msgstr "البحث كلمة المرور:"
 
 #: zp-core/admin-options.php:1481
 msgid ""
@@ -4064,7 +4065,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1487
 msgid "Search guest user:"
-msgstr "Mot de passe d’invité pour la recherche : "
+msgstr "بحث مستخدم ضيف:"
 
 #: zp-core/admin-options.php:1499
 msgid "User ID for the search guest user"
@@ -4262,7 +4263,7 @@ msgstr ""
 #: zp-core/admin-options.php:1675
 #: zp-core/zp-extensions/favoritesHandler.php:113
 msgid "Sort albums by"
-msgstr "Trier les albums par"
+msgstr "ألبومات الترتيب حسب"
 
 #: zp-core/admin-options.php:1800
 msgid ""
@@ -4299,7 +4300,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1877
 msgid "Image quality:"
-msgstr "Qualité de l’image : "
+msgstr "جودة الصورة:"
 
 #: zp-core/admin-options.php:1880
 msgid "Normal Image"
@@ -4424,7 +4425,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:2034
 msgid "Watermarks:"
-msgstr "Filigranes :"
+msgstr "العلامات المائية:"
 
 #: zp-core/admin-options.php:2051
 msgid "Full sized images"
@@ -4450,7 +4451,7 @@ msgstr "صورة % "
 
 #: zp-core/admin-options.php:2105
 msgid "allow upscale"
-msgstr "autoriser l’agrandissement"
+msgstr "السماح الراقي"
 
 #: zp-core/admin-options.php:2109
 msgid "offset h"
@@ -4624,11 +4625,11 @@ msgstr "Affichage protégé"
 
 #: zp-core/admin-options.php:2308
 msgid "No access"
-msgstr "Aucun accès"
+msgstr "ممنوع الدخول"
 
 #: zp-core/admin-options.php:2310
 msgid "Unprotected"
-msgstr "Aucune protection"
+msgstr "غير مقاوم"
 
 #: zp-core/admin-options.php:2318
 msgid ""
@@ -4857,7 +4858,7 @@ msgstr ""
 #: zp-core/admin-options.php:2581
 #: zp-core/zp-extensions/publishContent/publishContent.php:249
 msgid "Albums:"
-msgstr "Albums :"
+msgstr "ألبومات"
 
 #: zp-core/admin-options.php:2590 zp-core/admin-options.php:2627
 msgid "thumbnails per row"
@@ -4997,12 +4998,12 @@ msgstr ""
 
 #: zp-core/admin-options.php:2752
 msgid "Image size:"
-msgstr "Taille de l’image : "
+msgstr "حجم الصورة:"
 
 #: zp-core/admin-options.php:2763
 #: zp-core/zp-extensions/jcarousel_thumb_nav.php:46
 msgid "height"
-msgstr "hauteur"
+msgstr "ارتفاع"
 
 #: zp-core/admin-options.php:2767
 #: zp-core/zp-extensions/jcarousel_thumb_nav.php:44
@@ -5332,7 +5333,7 @@ msgstr "Extension officielle"
 
 #: zp-core/admin-plugins.php:388
 msgid "Usage info"
-msgstr "Information sur l’utilisation"
+msgstr "معلومات الاستخدام"
 
 #: zp-core/admin-plugins.php:389 zp-core/lib-auth.php:515
 #: zp-core/lib-auth.php:534 zp-core/lib-auth.php:559 zp-core/lib-auth.php:586
@@ -5340,7 +5341,7 @@ msgstr "Information sur l’utilisation"
 #: zp-core/zp-extensions/menu_manager/menu_tab.php:164
 #: zp-core/zp-extensions/user-expiry/user-expiry-tab.php:123
 msgid "Options"
-msgstr "Options"
+msgstr "اختيار"
 
 #: zp-core/admin-plugins.php:390
 msgid "Warning note"
@@ -5348,11 +5349,11 @@ msgstr "Avertissement"
 
 #: zp-core/admin-refresh-metadata.php:38
 msgid "Refresh Database"
-msgstr "Actualiser la base de données"
+msgstr "قاعدة بيانات على تحديث"
 
 #: zp-core/admin-refresh-metadata.php:39
 msgid "Finished refreshing the database"
-msgstr "L’actualisation de la base de données est terminée"
+msgstr "أنهى منعش قاعدة البيانات"
 
 #: zp-core/admin-refresh-metadata.php:40
 msgid "Database refresh is incomplete"
@@ -5402,7 +5403,7 @@ msgstr ""
 
 #: zp-core/admin-refresh-metadata.php:161
 msgid "Continue!"
-msgstr "Continuer !"
+msgstr "استمر!"
 
 #: zp-core/admin-refresh-metadata.php:177
 #, php-format
@@ -5426,7 +5427,7 @@ msgstr "Actualiser les métadonnées des images."
 
 #: zp-core/admin-refresh-metadata.php:188
 msgid "Go!"
-msgstr "C’est parti !"
+msgstr "اذهب!"
 
 #: zp-core/admin-tags.php:33
 msgid "New tags added"
@@ -5446,7 +5447,7 @@ msgstr "Gestion des tags"
 
 #: zp-core/admin-tags.php:118
 msgid "Order alphabetically"
-msgstr "Trier alphabétiquement"
+msgstr "ترتيب أبجديا"
 
 #: zp-core/admin-tags.php:129
 msgid "Order by most used"
@@ -5538,7 +5539,7 @@ msgstr "Autres fichiers texte"
 
 #: zp-core/admin-themes-editor.php:141
 msgid "Edit this file"
-msgstr "Modifier ce fichier"
+msgstr "عدل هذا الملف"
 
 #: zp-core/admin-themes-editor.php:151
 #, php-format
