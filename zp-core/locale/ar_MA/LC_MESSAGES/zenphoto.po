@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-15 14:43+0100\n"
+"PO-Revision-Date: 2017-03-15 14:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -5689,7 +5689,7 @@ msgstr "Thème utilisé"
 #: zp-core/zp-extensions/comment_form.php:289
 #: zp-core/zp-extensions/comment_form/admin-comments.php:451
 msgid "Edit"
-msgstr "Modifier"
+msgstr "تحرير"
 
 #: zp-core/admin-themes.php:310
 msgid "Duplicate"
@@ -5733,7 +5733,7 @@ msgstr "aperçu de la vignette"
 
 #: zp-core/admin-upload.php:90
 msgid "Upload Images"
-msgstr "Charger des images"
+msgstr "تحميل الصور"
 
 #: zp-core/admin-upload.php:105
 #, php-format
@@ -5818,7 +5818,7 @@ msgstr ""
 
 #: zp-core/admin-upload.php:168
 msgid "Upload to:"
-msgstr "Charger dans :"
+msgstr "حمل الى:"
 
 #: zp-core/admin-upload.php:210 zp-core/admin-upload.php:282
 #: zp-core/admin-upload.php:293 zp-core/admin-upload.php:299
@@ -5841,7 +5841,7 @@ msgstr "Créer un nouvel album"
 
 #: zp-core/admin-upload.php:285 zp-core/setup/index.php:1081
 msgid "and"
-msgstr "et"
+msgstr "و"
 
 #: zp-core/admin-upload.php:287
 msgid "Publish the album so everyone can see it."
@@ -5849,7 +5849,7 @@ msgstr "le publier pour que tout le monde puisse le voir."
 
 #: zp-core/admin-upload.php:291
 msgid "titled:"
-msgstr "Nom de l’album : "
+msgstr "بعنوان:"
 
 #: zp-core/admin-upload.php:296
 msgid "with the folder name:"
@@ -5905,7 +5905,7 @@ msgstr "L’URL de votre site internet n’est pas valide"
 #: zp-core/zp-extensions/user_groups/user_groups-tab.php:208
 #: zp-core/zp-extensions/user_groups/user_groups-tab.php:382
 msgid "Expand all"
-msgstr "Tout afficher"
+msgstr "توسيع الكل"
 
 #: zp-core/admin-users.php:478
 #: zp-core/zp-extensions/user_groups/user_groups-tab.php:210
@@ -5990,7 +5990,7 @@ msgstr "Nom complet"
 #: zp-core/admin-users.php:714
 #: zp-core/zp-extensions/register_user/register_user_form.php:39
 msgid "Email"
-msgstr "Email"
+msgstr "البريد الإلكتروني:"
 
 #: zp-core/admin-users.php:727
 msgid "create primary album"
@@ -6160,38 +6160,38 @@ msgstr ""
 
 #: zp-core/admin.php:276
 msgid "Setup » protect scripts"
-msgstr "Installation ›› protéger les scripts"
+msgstr "الإعداد »حماية البرامج النصية"
 
 #: zp-core/admin.php:281
 msgid "Protects setup files so setup cannot be run."
-msgstr ""
-"Protège les fichiers d’installation pour empêcher le script d’installation "
-"d’être exécuté."
+msgstr "يحمي ملفات الإعداد بحيث لا يمكن تشغيل برنامج الإعداد."
 
 #: zp-core/admin.php:291
 msgid "Run setup"
-msgstr "Lancer l’installation"
+msgstr "الإعداد تشغيل"
 
 #: zp-core/admin.php:296
 msgid "Run the setup script."
-msgstr "Lancer le script d’installation."
+msgstr "تشغيل البرنامج النصي الإعداد."
 
 #: zp-core/admin.php:312
 msgid "Installation information"
-msgstr "Information sur l’installation"
+msgstr "معلومات التثبيت"
 
 #: zp-core/admin.php:316
 msgid "<em>Debug build</em>"
-msgstr "<em>Version de développement</em>"
+msgstr ""
+"<em>التصحيح بناء\n"
+"</em>"
 
 #: zp-core/admin.php:318
 msgid "Official build"
-msgstr "Version officielle"
+msgstr "الإصدار الرسمي"
 
 #: zp-core/admin.php:324 zp-core/functions-basic.php:1228
 #: zp-core/setup/index.php:399 zp-core/zp-extensions/security-logger.php:132
 msgid "clone"
-msgstr "clone"
+msgstr "استنساخ"
 
 #: zp-core/admin.php:333
 #, php-format
@@ -6344,11 +6344,11 @@ msgstr[5] ""
 
 #: zp-core/admin.php:609
 msgid "Utility functions"
-msgstr "Utilitaires"
+msgstr "الوظائف ذات المنفعة"
 
 #: zp-core/admin.php:654
 msgid "Gallery Stats"
-msgstr "Statistiques de la galerie"
+msgstr "إحصاءات معرض"
 
 #: zp-core/admin.php:661
 #, php-format
@@ -6455,27 +6455,27 @@ msgstr "Erreur : l’album %s est introuvable."
 
 #: zp-core/class-feed.php:254
 msgid "Latest albums"
-msgstr "Albums récents"
+msgstr "آخر ألبومات"
 
 #: zp-core/class-feed.php:260
 msgid "latest updated albums"
-msgstr "Albums récemment mis à jour"
+msgstr "ألبومات تم تحديثها مؤخرا"
 
 #: zp-core/class-feed.php:264
 msgid "Most popular albums"
-msgstr "Albums les plus populaires"
+msgstr "الالبومات الشعبية"
 
 #: zp-core/class-feed.php:266
 msgid "Most popular images"
-msgstr "Images les plus populaires"
+msgstr "معظم الصور الشعبية"
 
 #: zp-core/class-feed.php:271
 msgid "Top rated albums"
-msgstr "Albums les mieux évalués"
+msgstr "ألبومات الأعلى تصنيفا"
 
 #: zp-core/class-feed.php:273
 msgid "Top rated images"
-msgstr "Images les mieux évaluées"
+msgstr "الصور الأعلى تصنيفا"
 
 #: zp-core/class-feed.php:278
 msgid "Random albums"
@@ -6586,30 +6586,30 @@ msgstr "Données personnalisées"
 
 #: zp-core/class-search.php:104
 msgid "Location/Place"
-msgstr "Lieu"
+msgstr "موقع / مكان"
 
 #: zp-core/class-search.php:105 zp-core/functions.php:2612
 #: zp-core/zp-extensions/contact_form.php:117
 #: zp-core/zp-extensions/contact_form.php:119
 #: zp-core/zp-extensions/userAddressFields.php:51
 msgid "City"
-msgstr "Ville"
+msgstr "مدينة:"
 
 #: zp-core/class-search.php:106 zp-core/zp-extensions/contact_form.php:120
 #: zp-core/zp-extensions/contact_form.php:122
 #: zp-core/zp-extensions/userAddressFields.php:53
 msgid "State"
-msgstr "État, province"
+msgstr "حالة:"
 
 #: zp-core/class-search.php:107 zp-core/zp-extensions/contact_form.php:126
 #: zp-core/zp-extensions/contact_form.php:128
 #: zp-core/zp-extensions/userAddressFields.php:52
 msgid "Country"
-msgstr "Pays"
+msgstr "بلد:"
 
 #: zp-core/class-search.php:108
 msgid "Copyright"
-msgstr "Copyright"
+msgstr "حقوق النشر:"
 
 #: zp-core/class-search.php:110
 msgid "Credit"
@@ -6627,7 +6627,7 @@ msgstr "Contenu boni"
 
 #: zp-core/class-search.php:115
 msgid "Author"
-msgstr "Auteur"
+msgstr "مؤلف"
 
 #: zp-core/class-search.php:116
 msgid "Last Editor"
