@@ -3,6 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
 "PO-Revision-Date: 2017-03-15 14:54+0100\n"
+"PO-Revision-Date: 2017-03-15 18:20+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -9047,7 +9048,7 @@ msgstr "Aucun droit"
 #: zp-core/lib-auth.php:505 zp-core/lib-auth.php:520 zp-core/lib-auth.php:539
 #: zp-core/lib-auth.php:564 zp-core/template-functions.php:97
 msgid "Overview"
-msgstr "Aperçu"
+msgstr "نظرة عامة"
 
 #: zp-core/lib-auth.php:506 zp-core/lib-auth.php:521
 msgid "View all"
@@ -9058,7 +9059,7 @@ msgstr "Tout voir"
 #: zp-core/zp-extensions/uploader_http/upload_form.php:68
 #: zp-core/zp-extensions/uploader_http/upload_form.php:69
 msgid "Upload"
-msgstr "Charger"
+msgstr "تحميل"
 
 #: zp-core/lib-auth.php:508 zp-core/lib-auth.php:523 zp-core/lib-auth.php:547
 #: zp-core/lib-auth.php:573
@@ -9222,7 +9223,7 @@ msgstr ""
 
 #: zp-core/lib-auth.php:540 zp-core/lib-auth.php:566
 msgid "View gallery"
-msgstr "Voir la galerie"
+msgstr "عرض مؤشر معرض"
 
 #: zp-core/lib-auth.php:540 zp-core/lib-auth.php:566
 msgid ""
@@ -9292,7 +9293,7 @@ msgstr "Tout gérer"
 #: zp-core/lib-auth.php:565 zp-core/lib-auth.php:906 zp-core/lib-auth.php:1010
 #: zp-core/lib-auth.php:1051
 msgid "User"
-msgstr "Utilisateur"
+msgstr "المستعمل"
 
 #: zp-core/lib-auth.php:565
 msgid "Users must have this right to change their credentials."
