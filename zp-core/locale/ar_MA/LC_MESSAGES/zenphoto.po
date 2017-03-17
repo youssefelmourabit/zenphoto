@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-17 18:27+0100\n"
+"PO-Revision-Date: 2017-03-17 19:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -2450,7 +2450,7 @@ msgstr "عرض كلمة المرور"
 #: zp-core/admin-functions.php:1354 zp-core/zp-extensions/downloadList.php:143
 #: zp-core/zp-extensions/zenpage/admin-edit.php:536
 msgid "Password hint:"
-msgstr "Astuce pour le mot de passe : "
+msgstr "تلميح كلمة المرور:"
 
 #: zp-core/admin-functions.php:1412 zp-core/admin-options.php:790
 #: zp-core/admin-options.php:1287 zp-core/admin-options.php:1672
@@ -2462,15 +2462,15 @@ msgstr "العادة"
 
 #: zp-core/admin-functions.php:1419
 msgid "Sort subalbums by:"
-msgstr "Trier les sous-albums par : "
+msgstr "سوبالبومس الفرز حسب:"
 
 #: zp-core/admin-functions.php:1425
 msgid "*gallery album sort order"
-msgstr "*ordre de tri des albums de la galerie"
+msgstr "* معرض ألبوم ترتيب الفرز"
 
 #: zp-core/admin-functions.php:1427
 msgid "*parent album subalbum sort order"
-msgstr "*ordre de tri des images du sous-album comme celui de l’album parent"
+msgstr "* ترتيب الفرز سوبالبوم ألبوم الأصل"
 
 #: zp-core/admin-functions.php:1447 zp-core/admin-functions.php:1504
 #: zp-core/admin-options.php:1322 zp-core/admin-options.php:1697
@@ -2484,7 +2484,7 @@ msgstr "تنازلي"
 #: zp-core/admin-options.php:1330 zp-core/admin-options.php:1716
 #: zp-core/admin-options.php:1767 zp-core/admin-options.php:1857
 msgid "custom fields:"
-msgstr "champs personnalisés :"
+msgstr "حقول تعريفية"
 
 #: zp-core/admin-functions.php:1474 zp-core/admin-options.php:1726
 #: zp-core/admin-options.php:1818
@@ -2571,23 +2571,23 @@ msgstr "مسح الصور المخزنة مؤقتا الألبوم."
 
 #: zp-core/admin-functions.php:2003
 msgid "Clear album image cache"
-msgstr "Vider le cache des images de l’album"
+msgstr "ذاكرة التخزين المؤقت لصورة الألبوم واضحة"
 
 #: zp-core/admin-functions.php:2006
 msgid "Resets album’s hit counters."
-msgstr "Remettre à zéro les compteurs de l’album"
+msgstr "إعادة تعيين عدادات الدخول للألبوم."
 
 #: zp-core/admin-functions.php:2008
 msgid "Reset album hit counters"
-msgstr "Remettre à zéro les compteurs de l’album"
+msgstr "إعادة تعيين عدادات ضرب الألبوم"
 
 #: zp-core/admin-functions.php:2015
 msgid "Refreshes the metadata for the album."
-msgstr "Actualise les métadonnées de l’album."
+msgstr "ينعش البيانات الوصفية للألبوم."
 
 #: zp-core/admin-functions.php:2017
 msgid "Refresh album metadata"
-msgstr "Actualiser les métadonnées de l’album"
+msgstr "تحديث البيانات الوصفية للألبوم"
 
 #: zp-core/admin-functions.php:2029
 msgid "Albums (dynamic)"
@@ -2670,20 +2670,20 @@ msgstr "Publier l’album %s"
 #: zp-core/admin-functions.php:2169
 #, php-format
 msgid "Unpublished"
-msgstr "Non publié(e)"
+msgstr "غير منشورة"
 
 #: zp-core/admin-functions.php:2188
 #: zp-core/zp-extensions/zenpage/admin-edit.php:656
 #: zp-core/zp-extensions/zenpage/admin-news-articles.php:324
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:258
 msgid "Comments on"
-msgstr "Commentaires actifs"
+msgstr "تعليقات على"
 
 #: zp-core/admin-functions.php:2202
 #: zp-core/zp-extensions/zenpage/admin-news-articles.php:332
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:264
 msgid "Comments off"
-msgstr "Commentaires désactivés"
+msgstr "تعليقات خارج"
 
 #: zp-core/admin-functions.php:2213
 msgid "View album"
@@ -2699,7 +2699,7 @@ msgstr ""
 #: zp-core/admin-functions.php:2221 zp-core/admin-functions.php:2239
 #: zp-core/admin-functions.php:2259
 msgid "unavailable"
-msgstr "pas disponible"
+msgstr "غير متوفره"
 
 #: zp-core/admin-functions.php:2225
 #, php-format
@@ -2796,7 +2796,7 @@ msgstr ""
 
 #: zp-core/admin-functions.php:3167
 msgid "Rights:"
-msgstr "Droits :"
+msgstr "حقوق:"
 
 #: zp-core/admin-functions.php:3231
 msgid "edit rights"
@@ -2960,19 +2960,19 @@ msgstr "بريد"
 
 #: zp-core/admin-functions.php:4560
 msgid "media"
-msgstr "médias"
+msgstr "وسائل الإعلام"
 
 #: zp-core/admin-functions.php:4561
 msgid "misc"
-msgstr "divers"
+msgstr "متفرقات"
 
 #: zp-core/admin-functions.php:4562
 msgid "spam"
-msgstr "indésirables"
+msgstr "بريد مؤذي"
 
 #: zp-core/admin-functions.php:4563
 msgid "seo"
-msgstr "moteurs de recherche"
+msgstr "سيو"
 
 #: zp-core/admin-functions.php:4564
 msgid "uploader"
@@ -3004,32 +3004,31 @@ msgstr "%s a bien été supprimé(e)."
 
 #: zp-core/admin-functions.php:4699 zp-core/admin-users.php:419
 msgid "You must supply a password."
-msgstr "Vous devez fournir un mot de passe."
+msgstr "يجب توفير كلمة مرور."
 
 #: zp-core/admin-functions.php:4701 zp-core/admin-options.php:545
 #: zp-core/admin-users.php:428 zp-core/zp-extensions/register_user.php:471
 msgid "Your passwords did not match."
-msgstr "Vos mots de passe ne correspondent pas"
+msgstr "كلمتا المرور غير متطابقتين."
 
 #: zp-core/admin-functions.php:4708
 msgid ""
 "The image edit form submission has been truncated. Try displaying fewer "
 "images on a page."
 msgstr ""
-"Le formulaire d’édition des images a été tronqué. Veuillez afficher moins "
-"d’images par page."
+"تم اقتطاع صورة تحرير استمارة التقديم. محاولة عرض عدد أقل من الصور على صفحة."
 
 #: zp-core/admin-functions.php:4711
 msgid "Hit counters have been reset."
-msgstr "Les compteurs d’affichage ont été remis à zéro."
+msgstr "تم إعادة ضبط ضرب العدادات."
 
 #: zp-core/admin-functions.php:4714
 msgid "Cache has been purged."
-msgstr "Le cache a été vidé."
+msgstr "لقد تم إتلاف ذاكرة التخزين المؤقت."
 
 #: zp-core/admin-functions.php:4717 zp-core/admin-upload.php:154
 msgid "Your files have been uploaded."
-msgstr "Vos fichiers ont été chargés."
+msgstr "وقد تم تحميل الملفات الخاصة بك."
 
 #: zp-core/admin-functions.php:4720
 #, php-format
@@ -3161,11 +3160,11 @@ msgstr "القوالب"
 
 #: zp-core/admin-globals.php:138
 msgid "plugins"
-msgstr "extensions"
+msgstr "الإضافات"
 
 #: zp-core/admin-globals.php:146 zp-core/admin-logs.php:85
 msgid "logs"
-msgstr "journaux"
+msgstr "الصحف"
 
 #: zp-core/admin-globals.php:154
 msgid "Restore"
@@ -3193,7 +3192,7 @@ msgstr "Le journal %s n’a pu être enlevé."
 
 #: zp-core/admin-logs.php:113
 msgid "View logs:"
-msgstr "Voir les journaux :"
+msgstr "عرض السجلات:"
 
 #: zp-core/admin-logs.php:142 zp-core/admin-options.php:2308
 #: zp-core/zp-extensions/downloadList/download_statistics.php:23
@@ -3230,7 +3229,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:524 zp-core/admin-plugins.php:106
 msgid "Applied"
-msgstr "Sauvegardé"
+msgstr "محمي"
 
 #: zp-core/admin-options.php:534
 msgid ""
