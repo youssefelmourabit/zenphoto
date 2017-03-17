@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-15 18:20+0100\n"
+"PO-Revision-Date: 2017-03-17 18:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -253,17 +253,17 @@ msgstr "السماح للبحث"
 #: themes/effervescence_plus/themeoptions.php:108
 #: themes/zenpage/themeoptions.php:66 themes/zpmobile/themeoptions.php:38
 msgid "Check to enable search form."
-msgstr "Cocher pour activer le formulaire de recherche."
+msgstr "تحقق من تمكين نموذج البحث."
 
 #: themes/basic/themeoptions.php:44
 #: themes/effervescence_plus/themeoptions.php:115
 msgid "Theme colors"
-msgstr "Couleurs du thème"
+msgstr "الألوان موضوع"
 
 #: themes/basic/themeoptions.php:44
 #: themes/effervescence_plus/themeoptions.php:115
 msgid "Select the colors of the theme"
-msgstr "Choisir les couleurs du thème"
+msgstr "حدد ألوان السمة"
 
 #: themes/effervescence_plus/404.php:33 themes/garland/404.php:44
 #: themes/garland/404.php:46
@@ -302,12 +302,12 @@ msgstr "الالبوم فارغ"
 
 #: themes/effervescence_plus/archive.php:52 themes/garland/archive.php:45
 msgid "Images By Date"
-msgstr "Images par date"
+msgstr "الصور حسب التاريخ"
 
 #: themes/effervescence_plus/archive.php:57 themes/garland/archive.php:50
 #: themes/zenpage/archive.php:43 themes/zpmobile/archive.php:33
 msgid "News archive"
-msgstr "Archives des actualités"
+msgstr "أرشيف أخبارألجديدة"
 
 #: themes/effervescence_plus/contact.php:42 zp-core/functions.php:2589
 #: zp-core/template-functions.php:449
@@ -317,7 +317,7 @@ msgstr "اتصل"
 
 #: themes/effervescence_plus/favorites.php:50
 msgid "Search gallery"
-msgstr "Rechercher dans la galerie"
+msgstr "البحث عن معرض"
 
 #: themes/effervescence_plus/functions.php:133
 msgid "Effervescence color scheme."
@@ -406,12 +406,12 @@ msgstr "Cet album est protégé par mot de passe."
 
 #: themes/effervescence_plus/functions.php:326
 msgid "The album is not published."
-msgstr "Cet album n’est pas publié."
+msgstr "لم يتم نشر الألبوم."
 
 #: themes/effervescence_plus/functions.php:328
 #, php-format
 msgid "View the Album: %s"
-msgstr "Voir l’album : %s"
+msgstr "عرض الألبوم: %s"
 
 #: themes/effervescence_plus/functions.php:335
 msgid "The image is marked not visible."
@@ -721,7 +721,7 @@ msgstr "Racine des albums"
 #: zp-core/zp-extensions/defaultCodeblocks.php:34
 #: zp-core/zp-extensions/externalFeed.php:69 zp-core/zp-extensions/rss.php:77
 msgid "Gallery"
-msgstr "Galerie"
+msgstr "صالة عرض"
 
 #: themes/effervescence_plus/sidebar.php:53 themes/garland/sidebar.php:63
 #: zp-core/admin-functions.php:2027 zp-core/admin-functions.php:3282
@@ -740,7 +740,7 @@ msgstr "Galerie"
 #: zp-core/zp-extensions/related_items.php:152
 #: zp-core/zp-extensions/tweet_news.php:90
 msgid "Albums"
-msgstr "Albums"
+msgstr "ألبومات"
 
 #: themes/effervescence_plus/sidebar.php:70
 #: themes/effervescence_plus/themeoptions.php:74 themes/garland/sidebar.php:80
@@ -765,7 +765,7 @@ msgstr "Albums"
 #: zp-core/zp-extensions/zenpage/admin-pages.php:105
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1326
 msgid "Pages"
-msgstr "Pages"
+msgstr "الصفحات"
 
 #: themes/effervescence_plus/sidebar.php:80
 #: themes/effervescence_plus/themeoptions.php:77 themes/zenpage/sidebar.php:56
@@ -773,7 +773,7 @@ msgstr "Pages"
 #: zp-core/template-functions.php:1392
 #: zp-core/zp-extensions/zenpage/zenpage-template-functions.php:876
 msgid "Archive"
-msgstr "Archive"
+msgstr "أرشيف"
 
 #: themes/effervescence_plus/sidebar.php:84
 #: themes/effervescence_plus/themeoptions.php:78
@@ -809,7 +809,7 @@ msgstr "Flux RSS"
 #: zp-core/zp-extensions/zenpage.php:287
 #: zp-core/zp-extensions/zenpage/zenpage-template-functions.php:883
 msgid "News"
-msgstr "Actualités"
+msgstr "أخبار"
 
 #: themes/effervescence_plus/slideshow.php:34
 msgid "Main Index"
@@ -2261,9 +2261,8 @@ msgid ""
 "Select an album to edit its description and data, or <a href=\"?"
 "page=edit&amp;massedit\">mass-edit</a> all gallery level albums."
 msgstr ""
-"اختر ألبوما لتحرير التفاصيل والوصف, ou <a "
-"href=\"?page=edit&amp;massedit\">التغيير في الكثير</a> ألبومات "
-"إستديو المصور الفوتغرافي."
+"اختر ألبوما لتحرير التفاصيل والوصف, ou <a href=\"?page=edit&amp;massedit"
+"\">التغيير في الكثير</a> ألبومات إستديو المصور الفوتغرافي."
 
 #: zp-core/admin-edit.php:1698 zp-core/admin-edit.php:1744
 #: zp-core/admin-edit.php:1763
@@ -3045,11 +3044,11 @@ msgstr "Modifications appliquées"
 
 #: zp-core/admin-functions.php:4770 zp-core/zp-extensions/seo_cleanup.php:50
 msgid "Image already exists."
-msgstr "L’image existe déjà."
+msgstr "الصورة موجود بالفعل."
 
 #: zp-core/admin-functions.php:4773 zp-core/zp-extensions/seo_cleanup.php:52
 msgid "Album already exists."
-msgstr "L’album existe déjà."
+msgstr "ألبوم موجود بالفعل."
 
 #: zp-core/admin-functions.php:4776 zp-core/zp-extensions/seo_cleanup.php:54
 msgid "Cannot move, copy, or rename to a subalbum of this album."
@@ -3068,7 +3067,7 @@ msgstr "Impossible de changer le suffixe de l’image"
 
 #: zp-core/admin-functions.php:4785 zp-core/zp-extensions/seo_cleanup.php:60
 msgid "Album delete failed"
-msgstr "L’album n’a pu être effacé"
+msgstr "أخفق حذف الألبوم"
 
 #: zp-core/admin-functions.php:4788
 #, php-format
@@ -3142,7 +3141,7 @@ msgstr "صالة عرض"
 
 #: zp-core/admin-globals.php:115
 msgid "plugin"
-msgstr "extension"
+msgstr "اضافة"
 
 #: zp-core/admin-globals.php:118
 msgid "search"
@@ -3150,7 +3149,7 @@ msgstr "بحث"
 
 #: zp-core/admin-globals.php:122
 msgid "theme"
-msgstr "thème"
+msgstr "نسق"
 
 #: zp-core/admin-globals.php:124
 msgid "options"
@@ -3158,7 +3157,7 @@ msgstr "اختيار"
 
 #: zp-core/admin-globals.php:131
 msgid "themes"
-msgstr "thèmes"
+msgstr "القوالب"
 
 #: zp-core/admin-globals.php:138
 msgid "plugins"
@@ -3429,16 +3428,16 @@ msgid ""
 "<em>HTTP_Accept_Language</em> to use the language preference specified by "
 "the viewer’s browser.)"
 msgstr ""
-"La langue à afficher de préférence. (Sélectionner <em>HTTP_Accept_Language</"
-"em> pour que la langue d’affichage soit celle du navigateur client.)"
+"حدد اللغة المفضلة لعرض نص بوصة (مجموعة إلى <em>HTTP_Accept_Language</em> "
+"استخدام تفضيلات اللغة المحددة بواسطة المستعرض المشاهد)."
 
 #: zp-core/admin-options.php:781
 msgid ""
 "Set <em>Multi-lingual</em> to enable multiple language input for options "
 "that provide theme text."
 msgstr ""
-"Activez l’<em>interface multilingue</em> pour permettre la saisie de "
-"plusieurs langues dans les champs de base de données."
+"تعيين <em>متعدد اللغات</em> لتمكين متعددة اللغة الإدخال للخيارات التي توفر "
+"نص الموضوع."
 
 #: zp-core/admin-options.php:786
 msgid "Date format:"
@@ -3482,11 +3481,11 @@ msgstr "02-25-2008"
 
 #: zp-core/admin-options.php:800
 msgid "2008. February 25. 15:30"
-msgstr "2008. février 25. 15:30"
+msgstr "2008. 25 شباط/فبراير. 15:30"
 
 #: zp-core/admin-options.php:801
 msgid "2008. February 25."
-msgstr "2008. février 25."
+msgstr "2008. 25 شباط/فبراير."
 
 #: zp-core/admin-options.php:802
 msgid "2008-02-25 15:30"
@@ -3598,7 +3597,7 @@ msgstr "février 25, 2008 15:30"
 
 #: zp-core/admin-options.php:829
 msgid "February 25, 2008"
-msgstr "février 25, 2008"
+msgstr "25 فبراير 2008"
 
 #: zp-core/admin-options.php:847
 msgid ""
@@ -3607,21 +3606,21 @@ msgid ""
 "\"><span class=\"nowrap\"><code>strftime()</code></span></a> format string "
 "in the text box."
 msgstr ""
-"Format des dates. Sélectionner dans la liste ou choisir <code>personnalisé</"
-"code> puis saisir une chaîne de formatage <a href=\"http://fr.php.net/manual/"
-"fr/function.strftime.php\"><code>strftime()</code></a> dans le champ texte."
+"تنسيق التواريخ. حدد من القائمة أو تعيينها إلى <code>custom</code> وتقدم <a "
+"href=\"http://us2.php.net/manual/en/function.strftime.php\"><span class="
+"\"nowrap\"> <code>strftime()</code> </span></a> تنسيق السلسلة في مربع النص."
 
 #: zp-core/admin-options.php:850
 msgid "Charset:"
-msgstr "Encodage : "
+msgstr "مجموعة الأحرف:"
 
 #: zp-core/admin-options.php:872
 msgid ""
 "The character encoding to use internally. Leave at <em>Unicode (UTF-8)</em> "
 "if you are unsure."
 msgstr ""
-"L’encodage des caractères à utiliser en interne. Laissez <em>Unicode "
-"(UTF-8)</em> si vous n’êtes pas sûr."
+"الحرف الترميز لاستخدامه داخليا. ترك في <em>Unicode (utf-8)</em> إذا لم تكن "
+"متأكداً."
 
 #: zp-core/admin-options.php:874 zp-core/admin-options.php:904
 msgid ""
@@ -5739,15 +5738,13 @@ msgstr "تحميل الصور"
 #, php-format
 msgid "This web-based upload accepts the file formats: %s, and %s."
 msgstr ""
-"هذه الأداة تحميل على شبكة الإنترنت تقبل تنسيقات الملفات التالية : %s, "
-"et %s."
+"هذه الأداة تحميل على شبكة الإنترنت تقبل تنسيقات الملفات التالية : %s, et %s."
 
 #: zp-core/admin-upload.php:107
 #, php-format
 msgid "This web-based upload accepts the file formats: %s and %s."
 msgstr ""
-"هذه الأداة تحميل على شبكة الإنترنت تقبل تنسيقات الملفات التالية : %s "
-"et %s."
+"هذه الأداة تحميل على شبكة الإنترنت تقبل تنسيقات الملفات التالية : %s et %s."
 
 #: zp-core/admin-upload.php:113
 msgid "<strong>Note: </strong>"
