@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:16+0100\n"
-"PO-Revision-Date: 2017-03-15 20:30+0100\n"
+"PO-Revision-Date: 2017-03-17 19:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -324,22 +324,20 @@ msgstr "Palette de couleurs Effervescence"
 
 #: themes/effervescence_plus/functions.php:145
 msgid "Effervescence image display handling."
-msgstr "Mode d’affichage des images du thème Effervescence."
+msgstr "बुदबुदाहट छवि हैंडलिंग प्रदर्शित करें।"
 
 #: themes/effervescence_plus/functions.php:146 themes/garland/functions.php:69
 msgid "Personality"
-msgstr "Présentation"
+msgstr "व्यक्तित्व"
 
 #: themes/effervescence_plus/functions.php:179
 #: themes/effervescence_plus/indexpage.php:81
 msgid "There were no images from which to select the random heading."
-msgstr ""
-"Il n’y a aucune image parmi lesquelles en choisir une aléatoirement pour la "
-"une."
+msgstr "वहाँ से जो यादृच्छिक शीर्ष का चयन करने के लिए कोई चित्र थे।"
 
 #: themes/effervescence_plus/functions.php:198
 msgid "Random picture..."
-msgstr "Image aléatoire..."
+msgstr "आकस्मिक तस्वीर..."
 
 #: themes/effervescence_plus/functions.php:229
 #: zp-core/zp-extensions/menu_manager.php:1095
@@ -1825,7 +1823,7 @@ msgstr ""
 #: zp-core/admin-functions.php:1207 zp-core/admin-functions.php:1209
 #: zp-core/admin-functions.php:1967 zp-core/admin-functions.php:1969
 msgid "New subalbum"
-msgstr "Nouveau sous-album"
+msgstr "नई subalbum"
 
 #: zp-core/admin-edit.php:763 zp-core/admin-edit.php:765
 #: zp-core/admin-edit.php:825 zp-core/admin-edit.php:827
@@ -1859,7 +1857,7 @@ msgstr "सभी का चयन करें"
 
 #: zp-core/admin-edit.php:901
 msgid "Click on the image to change the thumbnail cropping."
-msgstr "Cliquer sur l’image pour changer le rognage de la vignette."
+msgstr "थंबनेल काट-छाँट को बदलने के लिए छवि पर क्लिक करें।"
 
 #: zp-core/admin-edit.php:907
 #, php-format
@@ -2066,7 +2064,7 @@ msgstr "La photo sera effacée quand les modifications seront appliquées."
 
 #: zp-core/admin-edit.php:1207
 msgid "Rotation:"
-msgstr "Rotation :"
+msgstr "रोटेशन"
 
 #: zp-core/admin-edit.php:1229
 msgid "90 degrees"
@@ -11832,15 +11830,15 @@ msgstr "Page : %s"
 
 #: zp-core/utilities/backup_restore.php:24
 msgid "Backup/Restore"
-msgstr "Sauvegarder ou restaurer"
+msgstr "النسخ الاحتياطي أو الاستعادة"
 
 #: zp-core/utilities/backup_restore.php:28
 msgid "Backup and restore your gallery database."
-msgstr "Sauvegarder et restaurer la base de données de votre galerie."
+msgstr "حفظ واستعادة قاعدة بيانات معرض الصور الخاص بك."
 
 #: zp-core/utilities/backup_restore.php:137
 msgid "Backup"
-msgstr "Sauvegarde"
+msgstr "حماية"
 
 #: zp-core/utilities/backup_restore.php:177
 #, php-format
