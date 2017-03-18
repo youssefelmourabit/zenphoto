@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:17+0100\n"
-"PO-Revision-Date: 2017-03-15 12:47+0100\n"
+"PO-Revision-Date: 2017-03-18 16:26+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -215,7 +215,7 @@ msgstr "Nombre de résultats pour <em>%1$s</em> : %2$u"
 #: themes/basic/search.php:60 zp-core/admin-edit.php:1313
 #: zp-core/admin-functions.php:1372
 msgid "Date:"
-msgstr "Date : "
+msgstr "Data:"
 
 #: themes/basic/search.php:84
 msgid "Sorry, no image matches found. Try refining your search."
@@ -267,7 +267,7 @@ msgstr "Choisir les couleurs du thème"
 #: themes/effervescence_plus/404.php:33 themes/garland/404.php:44
 #: themes/garland/404.php:46
 msgid "Page not found"
-msgstr "Page non trouvée"
+msgstr "Página não encontrada"
 
 #: themes/effervescence_plus/album.php:52
 #: themes/effervescence_plus/gallery.php:31
@@ -11619,7 +11619,7 @@ msgstr ""
 
 #: zp-core/template-functions.php:127
 msgid "Users"
-msgstr "Utilisateurs"
+msgstr "Users [Usuários]"
 
 #: zp-core/template-functions.php:151
 msgid "Logs"
@@ -11627,15 +11627,15 @@ msgstr "Journaux"
 
 #: zp-core/template-functions.php:170
 msgid "Sort Gallery"
-msgstr "Trier la galerie"
+msgstr "Ordenar galeria:"
 
 #: zp-core/template-functions.php:179
 msgid "New Album"
-msgstr "Nouvel album"
+msgstr "Novo Álbum"
 
 #: zp-core/template-functions.php:203
 msgid "Edit album"
-msgstr "Modifier l’album"
+msgstr "Editar álbum"
 
 #: zp-core/template-functions.php:210
 msgid "Sort subalbums"

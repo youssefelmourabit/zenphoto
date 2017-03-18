@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:16+0100\n"
-"PO-Revision-Date: 2017-03-17 19:06+0100\n"
+"PO-Revision-Date: 2017-03-18 16:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -16393,15 +16393,15 @@ msgstr "Liste des IP à ignorer (séparées par des virgules)."
 
 #: zp-core/zp-extensions/hitcounter.php:65
 msgid "Filter"
-msgstr "Filtre"
+msgstr "छलनी"
 
 #: zp-core/zp-extensions/hitcounter.php:69
 msgid "IP addresses"
-msgstr "Adresses IP"
+msgstr "सिरनामे"
 
 #: zp-core/zp-extensions/hitcounter.php:69
 msgid "Search Crawlers"
-msgstr "Robots de recherche"
+msgstr "खोज क्रॉलर्स"
 
 #: zp-core/zp-extensions/hitcounter.php:70
 msgid ""
@@ -16421,15 +16421,15 @@ msgstr "Liste des robots des moteurs de recherche séparés par une virgule."
 
 #: zp-core/zp-extensions/hitcounter.php:83
 msgid "Reset options to their default settings."
-msgstr "Réinitialise les options."
+msgstr "विकल्प को उनके डिफ़ॉल्ट सेटिंग्स रीसेट करें।"
 
 #: zp-core/zp-extensions/hitcounter.php:108
 msgid "Defaults"
-msgstr "Valeurs par défaut"
+msgstr "तयशुदा"
 
 #: zp-core/zp-extensions/hitcounter.php:133
 msgid "Insert my IP"
-msgstr "Insérer mon adresse IP"
+msgstr "मेरे आईपी सम्मिलित करें"
 
 #: zp-core/zp-extensions/hitcounter.php:212
 msgid "Reset all hitcounters"
@@ -16522,7 +16522,7 @@ msgstr ""
 
 #: zp-core/zp-extensions/html_meta_tags.php:95
 msgid "Site logo"
-msgstr "Logo du site"
+msgstr "साइट लोगो"
 
 #: zp-core/zp-extensions/html_meta_tags.php:96
 msgid ""
@@ -16800,11 +16800,11 @@ msgstr "Outils pour bloquer les pirates qui tentent d’attaquer votre site."
 
 #: zp-core/zp-extensions/ipBlocker.php:66
 msgid "Allow"
-msgstr "Autoriser"
+msgstr "इजाज़त देओ"
 
 #: zp-core/zp-extensions/ipBlocker.php:66
 msgid "Block"
-msgstr "Bloquer"
+msgstr "ब्लॉक करें"
 
 #: zp-core/zp-extensions/ipBlocker.php:76
 msgid "IP list"
