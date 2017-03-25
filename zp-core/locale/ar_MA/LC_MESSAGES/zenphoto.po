@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-10 17:07+0100\n"
-"PO-Revision-Date: 2017-03-18 10:41+0100\n"
+"PO-Revision-Date: 2017-03-25 14:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: Youssef EL MOURABIT <youssef.elmourabit7@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -4077,19 +4077,19 @@ msgstr ""
 
 #: zp-core/admin-options.php:1540
 msgid "Search password hint:"
-msgstr "Astuce pour le mot de passe de recherche : "
+msgstr "تلميح كلمة المرور البحث:"
 
 #: zp-core/admin-options.php:1553
 msgid "Search behavior settings:"
-msgstr "Paramètres définissant le comportement de la recherche :"
+msgstr "إعدادات البحث السلوك:"
 
 #: zp-core/admin-options.php:1571
 msgid "Fields list:"
-msgstr "Liste des champs :"
+msgstr "قائمة الحقول:"
 
 #: zp-core/admin-options.php:1589
 msgid "String matching:"
-msgstr "Correspondance de chaîne :"
+msgstr "سلسلة مطابقة:"
 
 #: zp-core/admin-options.php:1590
 msgid "<em>pattern</em>"
@@ -4133,7 +4133,7 @@ msgstr "<em>ET</em>"
 
 #: zp-core/admin-options.php:1607
 msgid "Default search"
-msgstr "Recherche par défaut"
+msgstr "صفحة البحث الافتراضية"
 
 #: zp-core/admin-options.php:1610
 msgid "<em>New</em>"
@@ -4232,7 +4232,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1662
 msgid "Cache expiry"
-msgstr "Délai d’expiration du cache"
+msgstr "انتهاء صلاحية ذاكرة التخزين المؤقت"
 
 #: zp-core/admin-options.php:1664
 #, php-format
@@ -4270,7 +4270,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1865
 msgid "Default sort order for images."
-msgstr "Ordre de tri par défaut des images."
+msgstr "ترتيب الفرز الافتراضي للصور."
 
 #: zp-core/admin-options.php:1866
 msgid ""
@@ -4282,7 +4282,7 @@ msgstr ""
 
 #: zp-core/admin-options.php:1870
 msgid "Maximum image size"
-msgstr "Taille maximale de l’image"
+msgstr "حجم الصورة الأقصى"
 
 #: zp-core/admin-options.php:1874
 msgid ""
@@ -4299,7 +4299,7 @@ msgstr "جودة الصورة:"
 
 #: zp-core/admin-options.php:1880
 msgid "Normal Image"
-msgstr "Images normales"
+msgstr "صورة عادية"
 
 #: zp-core/admin-options.php:1901
 msgid "<em>full</em> Image"
@@ -4357,7 +4357,7 @@ msgstr "L’extension EXIF de PHP est requise pour utiliser cette option."
 
 #: zp-core/admin-options.php:1976
 msgid "Allow upscale:"
-msgstr "Autoriser l’agrandissement : "
+msgstr "السماح الراقي"
 
 #: zp-core/admin-options.php:1978
 msgid ""
@@ -19096,25 +19096,25 @@ msgstr ""
 
 #: zp-core/zp-extensions/register_user.php:80
 msgid "User album"
-msgstr "Album de l’utilisateur"
+msgstr "ألبوم المستخدم"
 
 #: zp-core/zp-extensions/register_user.php:82
 msgid "If checked, an album will be created and assigned to the user."
-msgstr "Si coché, un album sera créé et attribué à l’utilisateur"
+msgstr "إذا تم، سيتم إنشاء ألبوم وتعيينه إلى المستخدم."
 
 #: zp-core/zp-extensions/register_user.php:83
 msgid "Email ID"
-msgstr "Identifiant email"
+msgstr "البريد الإلكتروني"
 
 #: zp-core/zp-extensions/register_user.php:85
 msgid "If checked, The use’s e-mail address will be used as his User ID."
 msgstr ""
-"Si cette option est cochée, l’adresse email de l’utilisateur sera utilisée "
-"comme identifiant."
+"إذا تحققت، سيتم استخدام عنوان البريد الإلكتروني واستخدام كما له هوية "
+"المستخدم."
 
 #: zp-core/zp-extensions/register_user.php:86
 msgid "Email notification text"
-msgstr "Texte pour la notification par email"
+msgstr "اشعارات البريد"
 
 #: zp-core/zp-extensions/register_user.php:88
 #, php-format
@@ -19192,7 +19192,7 @@ msgstr "Vous devez saisir le code postal."
 
 #: zp-core/zp-extensions/register_user.php:306
 msgid "Registration confirmation"
-msgstr "Confirmation de l’inscription"
+msgstr "تأكيد التسجيل"
 
 #: zp-core/zp-extensions/register_user.php:403
 msgid "you are already logged in."
@@ -19204,17 +19204,15 @@ msgstr "Merci de vous être inscrit."
 
 #: zp-core/zp-extensions/register_user.php:419
 msgid "You may now log onto the site and verify your personal information."
-msgstr ""
-"Vous pouvez maintenant vous connecter au site et vérifier vos renseignements "
-"personnels."
+msgstr "الآن تستطيع الدخول على الموقع والتحقق من المعلومات الشخصية الخاصة بك."
 
 #: zp-core/zp-extensions/register_user.php:438
 msgid ""
 "Your registration information has been accepted. An email has been sent to "
 "you to verify your email address."
 msgstr ""
-"Votre demande d’inscription a été acceptée. Un email vous a été envoyé pour "
-"vérifier votre adresse."
+"وقد قبلت معلومات التسجيل الخاصة بك. تم إرسال البريد الإلكتروني لك للتحقق من "
+"عنوان البريد الإلكتروني الخاص بك."
 
 #: zp-core/zp-extensions/register_user.php:447
 #: zp-core/zp-extensions/register_user.php:462
@@ -19227,7 +19225,7 @@ msgstr ""
 #: zp-core/zp-extensions/register_user.php:526
 #: zp-core/zp-extensions/register_user.php:542
 msgid "Registration failed."
-msgstr "L’inscription a échoué."
+msgstr "تعذر التسجيل"
 
 #: zp-core/zp-extensions/register_user.php:455
 #, php-format
@@ -23892,7 +23890,7 @@ msgstr[5] ""
 
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1410
 msgid "Published/Not published/Scheduled for publishing"
-msgstr "Publié(e) / Non publié(e) / Planifié(e)"
+msgstr "نشرت / غير منشورة / مجدولة للنشر"
 
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1520
 msgid "Publish immediately (skip scheduling)"
@@ -23952,7 +23950,7 @@ msgstr[5] ""
 
 #: zp-core/zp-extensions/zenpage/zenpage-template-functions.php:2139
 msgid "This page is password protected"
-msgstr "Cette page est protégée par mot de passe"
+msgstr "هذه الصفحة محمية بكلمة مرور"
 
 #: zp-core/zp-extensions/zenpage/zenpage-template-functions.php:2312
 #, php-format
@@ -24044,11 +24042,11 @@ msgstr ""
 
 #: zp-core/zp-extensions/zpCaptcha.php:12
 msgid "Zenphoto captcha handler."
-msgstr "Gestionnaire de captcha Zenphoto."
+msgstr "Zenphoto معالج كلمة التحقق."
 
 #: zp-core/zp-extensions/zpCaptcha.php:46
 msgid "Hash key"
-msgstr "Clé de hachage"
+msgstr "مفتاح الشباك"
 
 #: zp-core/zp-extensions/zpCaptcha.php:48
 msgid ""
@@ -24060,7 +24058,7 @@ msgstr ""
 
 #: zp-core/zp-extensions/zpCaptcha.php:49
 msgid "Allowed characters"
-msgstr "Caractères autorisés :"
+msgstr "الأحرف المسموح"
 
 #: zp-core/zp-extensions/zpCaptcha.php:51
 msgid "The characters which may appear in the CAPTCHA string."
@@ -24068,7 +24066,7 @@ msgstr "Les caractères susceptibles d’apparaître dans le Captcha."
 
 #: zp-core/zp-extensions/zpCaptcha.php:52
 msgid "CAPTCHA length"
-msgstr "Longueur du Captcha"
+msgstr "طول CAPTCHA"
 
 #: zp-core/zp-extensions/zpCaptcha.php:54
 msgid "3"
