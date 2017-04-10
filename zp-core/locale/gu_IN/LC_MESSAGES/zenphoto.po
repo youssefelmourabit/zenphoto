@@ -2,13 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:16+0100\n"
-"PO-Revision-Date: 2017-03-18 19:19+0100\n"
+"PO-Revision-Date: 2017-04-03 19:28+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: hi_IN\n"
@@ -420,7 +420,7 @@ msgstr[1] "%1$u affichages de cette %2$s"
 
 #: themes/effervescence_plus/functions.php:354
 msgid "page"
-msgstr "page"
+msgstr "पृष्ठ"
 
 #: themes/effervescence_plus/functions.php:364
 #, php-format
@@ -495,7 +495,7 @@ msgstr "Commentaires : %d"
 #: themes/zpmobile/news.php:43
 #: zp-core/zp-extensions/tinymce4/plugins/tinyzenpage/zoom.php:61
 msgid "Categories: "
-msgstr "Catégories : "
+msgstr "कैटेगरियां:"
 
 #: themes/effervescence_plus/functions.php:462 themes/garland/album.php:77
 #: themes/garland/favorites.php:91 themes/garland/functions.php:186
@@ -504,7 +504,7 @@ msgstr "Catégories : "
 #: themes/zenpage/news.php:73 themes/zenpage/news.php:110
 #: themes/zpmobile/news.php:64 themes/zpmobile/news.php:79
 msgid "next »"
-msgstr "suiv. ››"
+msgstr "आगामी››"
 
 #: themes/effervescence_plus/functions.php:462 themes/garland/album.php:77
 #: themes/garland/favorites.php:91 themes/garland/functions.php:186
@@ -1393,7 +1393,7 @@ msgstr ""
 
 #: zp-core/404.php:56 zp-core/setup/index.php:1073
 msgid "Index"
-msgstr "Accueil"
+msgstr "इंडैक्स"
 
 #: zp-core/404.php:56
 #, php-format
@@ -1407,7 +1407,7 @@ msgstr "Retour à %s"
 #: zp-core/zp-extensions/zenpage/admin-news-articles.php:230
 #: zp-core/zp-extensions/zenpage/admin-pages.php:142
 msgid "*Bulk actions*"
-msgstr "*Actions en lot*"
+msgstr "* थोक कार्यों *"
 
 #: zp-core/admin-albumsort.php:74 zp-core/admin-edit.php:566
 #: zp-core/admin-edit.php:579 zp-core/admin-edit.php:583
@@ -1429,21 +1429,21 @@ msgstr "*Actions en lot*"
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1423
 #: zp-core/zp-extensions/tinymce4/tinymce.min.js:7
 msgid "Delete"
-msgstr "Supprimer"
+msgstr "मिटाएं"
 
 #: zp-core/admin-albumsort.php:75 zp-core/admin-edit.php:567
 #: zp-core/zp-extensions/zenpage/admin-categories.php:147
 #: zp-core/zp-extensions/zenpage/admin-news-articles.php:232
 #: zp-core/zp-extensions/zenpage/admin-pages.php:144
 msgid "Set to published"
-msgstr "Publier"
+msgstr "प्रकाशित करने के लिए सेट करें"
 
 #: zp-core/admin-albumsort.php:76 zp-core/admin-edit.php:568
 #: zp-core/zp-extensions/zenpage/admin-categories.php:148
 #: zp-core/zp-extensions/zenpage/admin-news-articles.php:233
 #: zp-core/zp-extensions/zenpage/admin-pages.php:145
 msgid "Set to unpublished"
-msgstr "Dépublier"
+msgstr "अप्रकाशित करने के लिए सेट करें"
 
 #: zp-core/admin-albumsort.php:77 zp-core/admin-edit.php:569
 #: zp-core/admin-tags.php:224 zp-core/admin-tags.php:225
@@ -1465,7 +1465,7 @@ msgstr "Effacer les tags"
 #: zp-core/zp-extensions/zenpage/admin-pages.php:148
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:257
 msgid "Disable comments"
-msgstr "Désactiver les commentaires"
+msgstr "टिप्पणियाँ अक्षम करें"
 
 #: zp-core/admin-albumsort.php:80 zp-core/admin-edit.php:572
 #: zp-core/admin-functions.php:2198
@@ -1474,11 +1474,11 @@ msgstr "Désactiver les commentaires"
 #: zp-core/zp-extensions/zenpage/admin-pages.php:149
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:263
 msgid "Enable comments"
-msgstr "Activer les commentaires"
+msgstr "टिप्पणियाँ सक्षम करें"
 
 #: zp-core/admin-albumsort.php:81 zp-core/admin-edit.php:573
 msgid "Change owner"
-msgstr "Changer de propriétaire"
+msgstr "स्वामी बदलें"
 
 #: zp-core/admin-albumsort.php:90
 msgid "No album provided to sort."
@@ -1567,7 +1567,7 @@ msgstr "Aucun changement"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:348
 #: zp-core/zp-extensions/zenpage/admin-edit.php:810
 msgid "Back"
-msgstr "Retour"
+msgstr "पीछे"
 
 #: zp-core/admin-albumsort.php:195 zp-core/admin-albumsort.php:244
 #: zp-core/admin-edit.php:755 zp-core/admin-edit.php:817
@@ -1612,12 +1612,12 @@ msgstr "Retour"
 #: zp-core/zp-extensions/zenpage/admin-pages.php:177
 #: zp-core/zp-extensions/zenpage/admin-pages.php:179
 msgid "Apply"
-msgstr "Appliquer"
+msgstr "लागू करें"
 
 #: zp-core/admin-albumsort.php:199 zp-core/admin-albumsort.php:248
 #: zp-core/admin-functions.php:1222 zp-core/admin-functions.php:1982
 msgid "View Album"
-msgstr "Voir l’album"
+msgstr "एल्बम देखें "
 
 #: zp-core/admin-albumsort.php:203
 msgid "Set the image order by dragging them to the positions you desire."
@@ -1627,7 +1627,7 @@ msgstr "Choisissez l’ordre des images en les déplaçant dans l’ordre désir
 #: zp-core/zp-extensions/menu_manager/menu_tab_edit.php:31
 #: zp-core/zp-extensions/zenpage/admin-edit.php:124
 msgid "edit"
-msgstr "modifier"
+msgstr "संपादन करें"
 
 #: zp-core/admin-dynamic-album.php:43
 msgid "You do not have edit rights on this album."
@@ -1651,7 +1651,7 @@ msgstr "एल्बम का नाम:"
 
 #: zp-core/admin-dynamic-album.php:155
 msgid "Create in:"
-msgstr "Créer dans : "
+msgstr "Créer dans :"
 
 #: zp-core/admin-dynamic-album.php:190 zp-core/admin-functions.php:1613
 msgid "Thumbnail:"
@@ -1659,7 +1659,7 @@ msgstr "विनेट:"
 
 #: zp-core/admin-dynamic-album.php:223
 msgid "Search criteria:"
-msgstr "Critères de recherche : "
+msgstr "Critères de recherche :"
 
 #: zp-core/admin-dynamic-album.php:226
 msgid "Return albums found"
@@ -1692,7 +1692,7 @@ msgstr ""
 
 #: zp-core/admin-dynamic-album.php:266
 msgid "Search fields:"
-msgstr "Champs de recherche : "
+msgstr "Champs de recherche :"
 
 #: zp-core/admin-dynamic-album.php:290
 msgid "Create the album"

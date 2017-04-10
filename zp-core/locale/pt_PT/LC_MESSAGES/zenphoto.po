@@ -2,13 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-03-11 13:17+0100\n"
-"PO-Revision-Date: 2017-03-18 16:26+0100\n"
+"PO-Revision-Date: 2017-04-03 19:30+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: pt_PT\n"
@@ -1872,7 +1872,7 @@ msgstr "%s (décroissant)"
 #: zp-core/exif/makers/panasonic.php:105 zp-core/exif/makers/panasonic.php:108
 #: zp-core/exif/makers/panasonic.php:113 zp-core/exif/makers/panasonic.php:139
 msgid "Manual"
-msgstr "Manuel"
+msgstr "Manual"
 
 #: zp-core/admin-edit.php:913
 msgid "Display images by:"
@@ -1908,7 +1908,7 @@ msgstr "Afficher les images par :"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:358
 #: zp-core/zp-extensions/zenpage/admin-edit.php:820
 msgid "Reset"
-msgstr "Réinitialiser"
+msgstr "Reset"
 
 #: zp-core/admin-edit.php:988 zp-core/admin-edit.php:1259
 #, php-format
@@ -1933,7 +1933,7 @@ msgstr "Zoom"
 #: zp-core/zp-extensions/zenpage/admin-edit.php:832
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1415
 msgid "View"
-msgstr "Voir"
+msgstr "Ver"
 
 #: zp-core/admin-edit.php:1007
 msgid "<strong>Filename:</strong>"
@@ -1957,7 +1957,7 @@ msgstr "<strong>Taille :</strong>"
 
 #: zp-core/admin-edit.php:1017
 msgid "Owner:"
-msgstr "Propriétaire : "
+msgstr "Armador:"
 
 #: zp-core/admin-edit.php:1032 zp-core/admin-functions.php:1712
 #: zp-core/lib-auth.php:533 zp-core/lib-auth.php:534 zp-core/lib-auth.php:535
@@ -1966,7 +1966,7 @@ msgstr "Propriétaire : "
 #: zp-core/lib-auth.php:586 zp-core/lib-auth.php:587
 #: zp-core/zp-extensions/zenpage/admin-edit.php:651
 msgid "General"
-msgstr "Général"
+msgstr "Geral"
 
 #: zp-core/admin-edit.php:1036 zp-core/admin-functions.php:1716
 #: zp-core/admin-functions.php:2155 zp-core/admin-globals.php:31
@@ -1975,7 +1975,7 @@ msgstr "Général"
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:674
 #: zp-core/zp-extensions/zenpage/zenpage-admin-functions.php:1537
 msgid "Published"
-msgstr "Publié"
+msgstr "Publicado"
 
 #: zp-core/admin-edit.php:1044 zp-core/admin-functions.php:1724
 msgid "Allow Comments"
